@@ -8,8 +8,8 @@ Downloading
 -----------
 Download directly with the applicable command for your OS.
 
-`wget https://raw.githubusercontent.com/jbaggs/tld-data/master/tld-data.bro`
+``wget https://raw.githubusercontent.com/jbaggs/tld-data/master/tld-data.bro``
 
-`curl https://raw.githubusercontent.com/jbaggs/tld-data/master/tld-data.bro -O tld-data.bro`
+``curl https://raw.githubusercontent.com/jbaggs/tld-data/master/tld-data.bro -O tld-data.bro``
 
-`fetch https://raw.githubusercontent.com/jbaggs/tld-data/master/tld-data.bro`
+``fetch https://raw.githubusercontent.com/jbaggs/tld-data/master/tld-data.bro``
