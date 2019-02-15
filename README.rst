@@ -1,8 +1,10 @@
 tld-data
 ==========
 This is an automatically updated version of tld-data.bro meant to be used
-with domain-tld, in support of the anomalous-dns domain query module. It
+with domain-tld_, in support of the anomalous-dns domain query module. It
 is synced with changes to Mozilla's Public Suffix List. 
+
+.. _domain-tld: https://github.com/sethhall/domain-tld
 
 Downloading
 -----------
