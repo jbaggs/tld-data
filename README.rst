@@ -12,6 +12,6 @@ Download directly with the applicable command for your OS.
 
 ``wget https://raw.githubusercontent.com/jbaggs/tld-data/master/tld-data.zeek``
 
-``curl https://raw.githubusercontent.com/jbaggs/tld-data/master/tld-data.zeek -O tld-data.zeek``
+``curl https://raw.githubusercontent.com/jbaggs/tld-data/master/tld-data.zeek -o tld-data.zeek``
 
 ``fetch https://raw.githubusercontent.com/jbaggs/tld-data/master/tld-data.zeek``
