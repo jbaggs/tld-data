@@ -1,3 +1,10 @@
+# NOTE: As of 2022/01/25, support has been added for 5th level TLDs.
+# In making this transition, it was noted that adding a 5th level to tld-data.zeek
+# would break domain-tld if it was not updated at the same time.
+# This has been corrected in the latest version of domain-tld,  
+# and will not be an issue in future versions.
+# If you are using the most recent domain-tld, use tld-data-1.2.2.zeek.
+# Continue to use (this) the old tld-data.zeek until you have upgraded domain-tld.
 module DomainTLD;
 
 redef effective_tlds_2nd_level +=
