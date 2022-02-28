@@ -1,5 +1,5 @@
 tld-data
-==========
+========
 This is an automatically updated version of tld-data.zeek meant to be used
 with domain-tld_, in support of the anomalous-dns domain query module. It
 is synced with changes to Mozilla's Public Suffix List. 
@@ -23,4 +23,8 @@ Download directly with the applicable command for your OS.
 ``curl https://raw.githubusercontent.com/jbaggs/tld-data/master/tld-data.zeek -o tld-data.zeek``
 
 ``fetch https://raw.githubusercontent.com/jbaggs/tld-data/master/tld-data.zeek``
+
+Changes from 2022-02-25 to 2022-02-28:
+--------------------------------------
+**level 3 + :** \*.build.run, \*.database.run, \*.migration.run
 
