@@ -1,4 +1,4 @@
-# Updated: 2022-02-28T16:40:12Z
+# Updated: 2022-03-01T16:40:01Z
 module DomainTLD;
   
 const effective_tlds_1st_level: pattern = /DEFINED_BELOW/ &redef;
