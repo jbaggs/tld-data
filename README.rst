@@ -24,7 +24,7 @@ Download directly with the applicable command for your OS.
 
 ``fetch https://raw.githubusercontent.com/jbaggs/tld-data/master/tld-data.zeek``
 
-Changes from 2022-03-21 to 2022-03-25:
+Changes from 2022-03-25 to 2022-03-26:
 --------------------------------------
-**level 2 + :** encr.app, airkitapps.com, airkitapps-au.com, encoreapi.com, airkitapps.eu
+**level 4 + :** \*.user.localcert.dev
 
