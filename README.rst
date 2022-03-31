@@ -24,7 +24,7 @@ Download directly with the applicable command for your OS.
 
 ``fetch https://raw.githubusercontent.com/jbaggs/tld-data/master/tld-data.zeek``
 
-Changes from 2022-03-25 to 2022-03-26:
+Changes from 2022-03-26 to 2022-03-31:
 --------------------------------------
-**level 4 + :** \*.user.localcert.dev
+**level 3 + :** direct.quickconnect.cn
 
