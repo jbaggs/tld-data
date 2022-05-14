@@ -24,7 +24,9 @@ Download directly with the applicable command for your OS.
 
 ``fetch https://raw.githubusercontent.com/jbaggs/tld-data/master/tld-data.zeek``
 
-Changes from 2022-04-13 to 2022-05-10:
+Changes from 2022-05-10 to 2022-05-14:
 --------------------------------------
-**level 2 + :** gov.nl
+**level 2 + :** name.pm, sch.tf, biz.wf, sch.wf
+
+**level 3 + :** builder.code.com, dev-builder.code.com, stg-builder.code.com
 
