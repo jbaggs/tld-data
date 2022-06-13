@@ -9,8 +9,9 @@ In making this transition, it was noted that adding a 5th level to tld-data.zeek
 would break domain-tld_ if it was not updated at the same time.
 This has been corrected in the latest version of domain-tld_,
 and will not be an issue in future versions.
-If you are using the most recent domain-tld_, use tld-data-1.2.2.zeek. 
-Continue to use the old tld-data.zeek until you have upgraded domain-tld_.
+
+As of 2022/06/13, tld-data.zeek is the correct version.  
+If you are using domain-tld_ 1.2.1 or earlier, use tld-data-legacy.zeek.
 
 .. _domain-tld: https://github.com/sethhall/domain-tld
 
