@@ -25,9 +25,11 @@ Download directly with the applicable command for your OS.
 
 ``fetch https://raw.githubusercontent.com/jbaggs/tld-data/master/tld-data.zeek``
 
-Changes from 2022-05-10 to 2022-05-14:
+Changes from 2022-05-14 to 2022-06-30:
 --------------------------------------
-**level 2 + :** name.pm, sch.tf, biz.wf, sch.wf
+**level 2 + :** messerli.app, iservschule.de, schulplattform.de, ibxos.it, iliadboxos.it, lolipopmc.jp
 
-**level 3 + :** builder.code.com, dev-builder.code.com, stg-builder.code.com
+**level 3 - :** builder.code.com, dev-builder.code.com, stg-builder.code.com
+
+**level 4 + :** \*.builder.code.com, \*.dev-builder.code.com, \*.stg-builder.code.com
 
