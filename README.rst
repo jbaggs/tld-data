@@ -25,11 +25,7 @@ Download directly with the applicable command for your OS.
 
 ``fetch https://raw.githubusercontent.com/jbaggs/tld-data/master/tld-data.zeek``
 
-Changes from 2022-05-14 to 2022-06-30:
+Changes from 2022-06-30 to 2022-08-12:
 --------------------------------------
-**level 2 + :** messerli.app, iservschule.de, schulplattform.de, ibxos.it, iliadboxos.it, lolipopmc.jp
-
-**level 3 - :** builder.code.com, dev-builder.code.com, stg-builder.code.com
-
-**level 4 + :** \*.builder.code.com, \*.dev-builder.code.com, \*.stg-builder.code.com
+**level 2 + :** 5g.in, 6g.in, ai.in, am.in, bihar.in, biz.in, business.in, ca.in, cn.in, com.in, coop.in, cs.in, delhi.in, dr.in, er.in, gujarat.in, info.in, int.in, internet.in, io.in, me.in, pg.in, post.in, pro.in, travel.in, tv.in, uk.in, up.in, us.in
 
