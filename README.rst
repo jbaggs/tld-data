@@ -25,7 +25,7 @@ Download directly with the applicable command for your OS.
 
 ``fetch https://raw.githubusercontent.com/jbaggs/tld-data/master/tld-data.zeek``
 
-Changes from 2022-06-30 to 2022-08-12:
+Changes from 2022-08-12 to 2022-08-25:
 --------------------------------------
-**level 2 + :** 5g.in, 6g.in, ai.in, am.in, bihar.in, biz.in, business.in, ca.in, cn.in, com.in, coop.in, cs.in, delhi.in, dr.in, er.in, gujarat.in, info.in, int.in, internet.in, io.in, me.in, pg.in, post.in, pro.in, travel.in, tv.in, uk.in, up.in, us.in
+**level 2 + :** easypanel.app, streamlitapp.com, easypanel.host, beagleboard.io, framer.media, framer.photos, framer.website, framer.wiki
 
