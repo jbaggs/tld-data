@@ -1,4 +1,4 @@
-# Updated: 2022-08-25T15:40:03Z
+# Updated: 2022-09-23T15:40:12Z
 # NOTE: As of 2022/01/25, support has been added for 5th level TLDs. 
 # In making this transition, it was noted that adding a 5th level to tld-data.zeek
 # would break domain-tld if it was not updated at the same time. 
