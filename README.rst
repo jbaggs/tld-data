@@ -25,7 +25,9 @@ Download directly with the applicable command for your OS.
 
 ``fetch https://raw.githubusercontent.com/jbaggs/tld-data/master/tld-data.zeek``
 
-Changes from 2022-09-23 to 2022-09-28:
+Changes from 2022-09-28 to 2022-10-04:
 --------------------------------------
-**level 3 + :** 2.azurestaticapps.net
+**level 2 + :** firewalledreplit.co
+
+**level 3 + :** id.firewalledreplit.co, \*.on-acorn.io
 
