@@ -25,11 +25,7 @@ Download directly with the applicable command for your OS.
 
 ``fetch https://raw.githubusercontent.com/jbaggs/tld-data/master/tld-data.zeek``
 
-Changes from 2022-10-04 to 2022-10-24:
+Changes from 2022-10-24 to 2022-11-04:
 --------------------------------------
-**level 2 - :** pony.club, of.fashion, in.london, of.london, from.marketing, with.marketing, for.men, repair.men, and.mom, for.mom, for.one, under.one, for.sale, that.win, from.work, to.work
-
-**level 2 + :** 123webseite.at, 123website.be, 123website.ch, simplesite.com, 123webseite.de, 123hjemmeside.dk, 123miweb.es, 123kotisivu.fi, 123siteweb.fr, simplesite.gr, 123homepage.it, 123website.lu, 123website.nl, 123hjemmeside.no, simplesite.pl, 123paginaweb.pt, 123sait.ru, 123minsida.se
-
-**level 3 + :** simplesite.com.br, \*.user.fm
+**level 2 - :** myravendb.com
 
