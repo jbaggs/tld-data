@@ -25,9 +25,7 @@ Download directly with the applicable command for your OS.
 
 ``fetch https://raw.githubusercontent.com/jbaggs/tld-data/master/tld-data.zeek``
 
-Changes from 2022-11-04 to 2022-11-08:
+Changes from 2022-11-08 to 2022-11-16:
 --------------------------------------
-**level 2 + :** myamaze.net
-
-**level 3 - :** gwiddle.co.uk
+**level 2 - :** tbits.me
 
