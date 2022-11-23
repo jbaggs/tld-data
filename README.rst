@@ -25,7 +25,9 @@ Download directly with the applicable command for your OS.
 
 ``fetch https://raw.githubusercontent.com/jbaggs/tld-data/master/tld-data.zeek``
 
-Changes from 2022-11-08 to 2022-11-16:
+Changes from 2022-11-16 to 2022-11-23:
 --------------------------------------
-**level 2 - :** tbits.me
+**level 2 + :** cf-ipfs.com, cloudflare-ipfs.com, mytabit.com, r2.dev
+
+**level 3 + :** mytabit.co.il
 
