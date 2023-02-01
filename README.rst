@@ -25,7 +25,9 @@ Download directly with the applicable command for your OS.
 
 ``fetch https://raw.githubusercontent.com/jbaggs/tld-data/master/tld-data.zeek``
 
-Changes from 2022-11-23 to 2022-11-24:
+Changes from 2022-11-24 to 2023-02-01:
 --------------------------------------
-**level 2 + :** activetrail.biz
+**level 2 - :** asso.bj, barreau.bj, gouv.bj
+
+**level 2 + :** africa.bj, agro.bj, architectes.bj, assur.bj, avocats.bj, co.bj, com.bj, eco.bj, econo.bj, edu.bj, info.bj, loisirs.bj, money.bj, net.bj, org.bj, ote.bj, restaurant.bj, resto.bj, tourism.bj, univ.bj
 
