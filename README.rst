@@ -25,9 +25,9 @@ Download directly with the applicable command for your OS.
 
 ``fetch https://raw.githubusercontent.com/jbaggs/tld-data/master/tld-data.zeek``
 
-Changes from 2022-11-24 to 2023-02-01:
+Changes from 2023-02-01 to 2023-02-09:
 --------------------------------------
-**level 2 - :** asso.bj, barreau.bj, gouv.bj
+**level 2 + :** snowflake.app, streamlit.app, canva-apps.cn, canva-apps.com, fastly-edge.com, it.com, autocode.dev, adobeio-static.net, adobeioruntime.net
 
-**level 2 + :** africa.bj, agro.bj, architectes.bj, assur.bj, avocats.bj, co.bj, com.bj, eco.bj, econo.bj, edu.bj, info.bj, loisirs.bj, money.bj, net.bj, org.bj, ote.bj, restaurant.bj, resto.bj, tourism.bj, univ.bj
+**level 3 + :** privatelink.snowflake.app
 
