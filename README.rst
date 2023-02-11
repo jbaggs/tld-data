@@ -25,9 +25,7 @@ Download directly with the applicable command for your OS.
 
 ``fetch https://raw.githubusercontent.com/jbaggs/tld-data/master/tld-data.zeek``
 
-Changes from 2023-02-01 to 2023-02-09:
+Changes from 2023-02-09 to 2023-02-11:
 --------------------------------------
-**level 2 + :** snowflake.app, streamlit.app, canva-apps.cn, canva-apps.com, fastly-edge.com, it.com, autocode.dev, adobeio-static.net, adobeioruntime.net
-
-**level 3 + :** privatelink.snowflake.app
+**level 2 + :** akadns.net, akamai.net, akamai-staging.net, akamaiedge.net, akamaiedge-staging.net, akamaihd.net, akamaihd-staging.net, akamaiorigin.net, akamaiorigin-staging.net, akamaized.net, akamaized-staging.net, edgekey.net, edgekey-staging.net, edgesuite.net, edgesuite-staging.net
 
