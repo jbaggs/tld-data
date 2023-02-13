@@ -11,7 +11,7 @@ This has been corrected in the latest version of domain-tld_,
 and will not be an issue in future versions.
 
 As of 2022/06/13, tld-data.zeek is the correct version.  
-If you are using domain-tld_ 1.2.1 or earlier, use tld-data-legacy.zeek.
+**tld-data-legacy.zeek will be retired 2023/03/01.**
 
 .. _domain-tld: https://github.com/sethhall/domain-tld
 
