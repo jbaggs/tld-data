@@ -25,11 +25,7 @@ Download directly with the applicable command for your OS.
 
 ``fetch https://raw.githubusercontent.com/jbaggs/tld-data/master/tld-data.zeek``
 
-Changes from 2023-02-15 to 2023-02-27:
+Changes from 2023-02-27 to 2023-02-28:
 --------------------------------------
-**level 2 + :** 180r.com, dojin.com, sakuratan.com, sakuraweb.com, x0.com, 2-d.jp, bona.jp, crap.jp, daynight.jp, eek.jp, flop.jp, halfmoon.jp, jeez.jp, matrix.jp, mimoza.jp, netgamers.jp, nyanta.jp, o0o0.jp, rdy.jp, rgr.jp, rulez.jp, saloon.jp, sblo.jp, skr.jp, tank.jp, uh-oh.jp, undo.jp, websozai.jp, xii.jp, squares.net, jpn.org, kirara.st, x0.to, from.tv, sakura.tv
-
-**level 3 + :** ivory.ne.jp, mail-box.ne.jp, mints.ne.jp, mokuren.ne.jp, opal.ne.jp, sakura.ne.jp, sumomo.ne.jp, topaz.ne.jp, rs.webaccel.jp, user.webaccel.jp
-
-**level 4 + :** s3.isk01.sakurastorage.jp, s3.isk02.sakurastorage.jp
+**level 2 + :** ie.ua
 
