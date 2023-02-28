@@ -4,15 +4,6 @@ This is an automatically updated version of tld-data.zeek meant to be used
 with domain-tld_, in support of the anomalous-dns domain query module. It
 is synced with changes to Mozilla's Public Suffix List. 
 
-**NOTE:** As of 2022/01/25, support has been added for 5th level TLDs.
-In making this transition, it was noted that adding a 5th level to tld-data.zeek
-would break domain-tld_ if it was not updated at the same time.
-This has been corrected in the latest version of domain-tld_,
-and will not be an issue in future versions.
-
-As of 2022/06/13, tld-data.zeek is the correct version.  
-**tld-data-legacy.zeek will be retired 2023/03/01.**
-
 .. _domain-tld: https://github.com/sethhall/domain-tld
 
 Downloading
