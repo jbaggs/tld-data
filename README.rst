@@ -16,7 +16,9 @@ Download directly with the applicable command for your OS.
 
 ``fetch https://raw.githubusercontent.com/jbaggs/tld-data/master/tld-data.zeek``
 
-Changes from 2023-02-27 to 2023-02-28:
+Changes from 2023-02-28 to 2023-03-01:
 --------------------------------------
-**level 2 + :** ie.ua
+**level 2 + :** ngrok.app, ngrok-free.app, ngrok.dev, ngrok-free.dev, ngrok.pizza
+
+**level 3 + :** ap.ngrok.io, au.ngrok.io, eu.ngrok.io, in.ngrok.io, jp.ngrok.io, sa.ngrok.io, us.ngrok.io
 
