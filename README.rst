@@ -16,7 +16,7 @@ Download directly with the applicable command for your OS.
 
 ``fetch https://raw.githubusercontent.com/jbaggs/tld-data/master/tld-data.zeek``
 
-Changes from 2023-07-18 to 2023-09-18:
+Changes from 2023-09-18 to 2023-09-20:
 --------------------------------------
-**level 2 + :** wixstudio.io, wix.run
+**level 3 - :** k12.de.us
 
