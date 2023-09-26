@@ -16,7 +16,7 @@ Download directly with the applicable command for your OS.
 
 ``fetch https://raw.githubusercontent.com/jbaggs/tld-data/master/tld-data.zeek``
 
-Changes from 2023-09-18 to 2023-09-20:
+Changes from 2023-09-20 to 2023-09-26:
 --------------------------------------
-**level 3 - :** k12.de.us
+**level 2 - :** geometre-expert.fr
 
