@@ -16,7 +16,7 @@ Download directly with the applicable command for your OS.
 
 ``fetch https://raw.githubusercontent.com/jbaggs/tld-data/master/tld-data.zeek``
 
-Changes from 2023-09-20 to 2023-09-26:
+Changes from 2023-09-26 to 2023-10-01:
 --------------------------------------
-**level 2 - :** geometre-expert.fr
+**level 2 + :** luhansk.ua, uzhhorod.ua, zakarpattia.ua
 
