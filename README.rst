@@ -16,9 +16,7 @@ Download directly with the applicable command for your OS.
 
 ``fetch https://raw.githubusercontent.com/jbaggs/tld-data/master/tld-data.zeek``
 
-Changes from 2023-10-25 to 2023-10-27:
+Changes from 2023-10-27 to 2023-11-04:
 --------------------------------------
-**Addition of 6th level TLDs.**
-
-**level 6 + :** \*.cn-north-1.airflow.amazonaws.com.cn, \*.cn-northwest-1.airflow.amazonaws.com.cn, s3.dualstack.cn-north-1.amazonaws.com.cn, s3-accesspoint.dualstack.cn-north-1.amazonaws.com.cn, s3-website.dualstack.cn-north-1.amazonaws.com.cn, s3.dualstack.cn-northwest-1.amazonaws.com.cn, s3-accesspoint.dualstack.cn-northwest-1.amazonaws.com.cn
+**level 2 + :** torun.pl
 
