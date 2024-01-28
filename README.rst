@@ -16,7 +16,7 @@ Download directly with the applicable command for your OS.
 
 ``fetch https://raw.githubusercontent.com/jbaggs/tld-data/master/tld-data.zeek``
 
-Changes from 2023-11-29 to 2024-01-07:
+Changes from 2024-01-07 to 2024-01-28:
 --------------------------------------
-**level 3 - :** homeoffice.gov.uk
+**level 2 + :** atmeta.com, aem.live, aem.page
 
