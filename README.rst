@@ -16,7 +16,11 @@ Download directly with the applicable command for your OS.
 
 ``fetch https://raw.githubusercontent.com/jbaggs/tld-data/master/tld-data.zeek``
 
-Changes from 2024-01-07 to 2024-01-28:
+Changes from 2024-01-28 to 2024-01-31:
 --------------------------------------
-**level 2 + :** atmeta.com, aem.live, aem.page
+**level 2 + :** upsunapp.com, pages.gay
+
+**level 3 - :** bc.platform.sh
+
+**level 3 + :** \*.upsun.app
 
