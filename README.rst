@@ -16,7 +16,9 @@ Download directly with the applicable command for your OS.
 
 ``fetch https://raw.githubusercontent.com/jbaggs/tld-data/master/tld-data.zeek``
 
-Changes from 2024-02-03 to 2024-02-05:
+Changes from 2024-02-05 to 2024-02-07:
 --------------------------------------
-**level 4 + :** cockpit.fr-par.scw.cloud, cockpit.nl-ams.scw.cloud, cockpit.pl-waw.scw.cloud
+**level 2 + :** cyclic.app, cyclic.cloud, cyclic-app.com
+
+**level 3 + :** cyclic.co.in
 
