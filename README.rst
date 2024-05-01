@@ -16,9 +16,7 @@ Download directly with the applicable command for your OS.
 
 ``fetch https://raw.githubusercontent.com/jbaggs/tld-data/master/tld-data.zeek``
 
-Changes from 2024-04-16 to 2024-04-19:
+Changes from 2024-04-19 to 2024-05-01:
 --------------------------------------
-**level 2 + :** myqnapcloud.cn, mycloudnas.com, mynascloud.com
-
-**level 3 - :** cloudapp.azure.com
+**level 3 + :** shop.brendly.hr
 
