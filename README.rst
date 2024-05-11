@@ -16,7 +16,11 @@ Download directly with the applicable command for your OS.
 
 ``fetch https://raw.githubusercontent.com/jbaggs/tld-data/master/tld-data.zeek``
 
-Changes from 2024-05-02 to 2024-05-07:
+Changes from 2024-05-07 to 2024-05-11:
 --------------------------------------
-**level 2 + :** sheezy.games
+**level 2 + :** zeabur.app, box.ca, cleverapps.cc, observablehq.cloud, notion.site, cleverapps.tech
+
+**level 3 + :** express.val.run, web.val.run
+
+**level 4 + :** \*.services.clever-cloud.com
 
