@@ -16,11 +16,9 @@ Download directly with the applicable command for your OS.
 
 ``fetch https://raw.githubusercontent.com/jbaggs/tld-data/master/tld-data.zeek``
 
-Changes from 2024-05-07 to 2024-05-11:
+Changes from 2024-05-11 to 2024-05-14:
 --------------------------------------
-**level 2 + :** zeabur.app, box.ca, cleverapps.cc, observablehq.cloud, notion.site, cleverapps.tech
+**level 2 + :** expo.app
 
-**level 3 + :** express.val.run, web.val.run
-
-**level 4 + :** \*.services.clever-cloud.com
+**level 3 + :** staging.expo.app, \*.hosted.app
 
