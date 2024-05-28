@@ -16,9 +16,7 @@ Download directly with the applicable command for your OS.
 
 ``fetch https://raw.githubusercontent.com/jbaggs/tld-data/master/tld-data.zeek``
 
-Changes from 2024-05-11 to 2024-05-14:
+Changes from 2024-05-14 to 2024-05-28:
 --------------------------------------
-**level 2 + :** expo.app
-
-**level 3 + :** staging.expo.app, \*.hosted.app
+**level 2 + :** wixstudio.com, hypernode.io
 
