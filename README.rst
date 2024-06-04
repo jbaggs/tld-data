@@ -16,7 +16,9 @@ Download directly with the applicable command for your OS.
 
 ``fetch https://raw.githubusercontent.com/jbaggs/tld-data/master/tld-data.zeek``
 
-Changes from 2024-05-14 to 2024-05-28:
+Changes from 2024-05-28 to 2024-06-04:
 --------------------------------------
-**level 2 + :** wixstudio.com, hypernode.io
+**level 2 + :** cloudflare.net
+
+**level 3 + :** cdn.cloudflare.net, cdn.cloudflareanycast.net, cdn.cloudflarecn.net, cdn.cloudflareglobal.net
 
