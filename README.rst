@@ -16,9 +16,9 @@ Download directly with the applicable command for your OS.
 
 ``fetch https://raw.githubusercontent.com/jbaggs/tld-data/master/tld-data.zeek``
 
-Changes from 2024-05-28 to 2024-06-04:
+Changes from 2024-06-04 to 2024-06-11:
 --------------------------------------
-**level 2 + :** cloudflare.net
+**level 2 + :** strapiapp.com, barsy.dev, barsy.gr, barsyonline.menu, ind.mom, barsy.rs, barsyonline.shop, heiyu.space, barsy.store
 
-**level 3 + :** cdn.cloudflare.net, cdn.cloudflareanycast.net, cdn.cloudflarecn.net, cdn.cloudflareglobal.net
+**level 3 + :** relay.evervault.app, media.strapiapp.com, relay.evervault.dev
 
