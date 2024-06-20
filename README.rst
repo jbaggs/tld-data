@@ -16,7 +16,7 @@ Download directly with the applicable command for your OS.
 
 ``fetch https://raw.githubusercontent.com/jbaggs/tld-data/master/tld-data.zeek``
 
-Changes from 2024-06-12 to 2024-06-16:
+Changes from 2024-06-16 to 2024-06-20:
 --------------------------------------
-**level 3 + :** as.sh.cn
+**level 2 - :** ro.im, cn.vu
 
