@@ -16,9 +16,9 @@ Download directly with the applicable command for your OS.
 
 ``fetch https://raw.githubusercontent.com/jbaggs/tld-data/master/tld-data.zeek``
 
-Changes from 2024-06-20 to 2024-06-22:
+Changes from 2024-06-22 to 2024-06-25:
 --------------------------------------
-**level 2 + :** netfy.app, wp2.host, obl.ong, wpsquared.site
+**level 2 + :** myrdbx.io
 
-**level 4 + :** \*.d.crm.dev, \*.w.crm.dev, \*.wa.crm.dev, \*.wb.crm.dev, \*.wc.crm.dev, \*.wd.crm.dev, \*.we.crm.dev, \*.wf.crm.dev
+**level 3 + :** site.rb-hosting.io
 
