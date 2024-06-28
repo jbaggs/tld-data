@@ -16,9 +16,7 @@ Download directly with the applicable command for your OS.
 
 ``fetch https://raw.githubusercontent.com/jbaggs/tld-data/master/tld-data.zeek``
 
-Changes from 2024-06-22 to 2024-06-25:
+Changes from 2024-06-25 to 2024-06-28:
 --------------------------------------
-**level 2 + :** myrdbx.io
-
-**level 3 + :** site.rb-hosting.io
+**level 2 - :** instantcloud.cn
 
