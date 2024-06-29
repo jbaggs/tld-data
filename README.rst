@@ -16,7 +16,9 @@ Download directly with the applicable command for your OS.
 
 ``fetch https://raw.githubusercontent.com/jbaggs/tld-data/master/tld-data.zeek``
 
-Changes from 2024-06-25 to 2024-06-28:
+Changes from 2024-06-28 to 2024-06-29:
 --------------------------------------
-**level 2 - :** instantcloud.cn
+**level 2 + :** cprapid.com, durumis.com
+
+**level 3 - :** \*.cprapid.com
 
