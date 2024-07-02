@@ -16,9 +16,9 @@ Download directly with the applicable command for your OS.
 
 ``fetch https://raw.githubusercontent.com/jbaggs/tld-data/master/tld-data.zeek``
 
-Changes from 2024-06-28 to 2024-06-29:
+Changes from 2024-06-29 to 2024-07-02:
 --------------------------------------
-**level 2 + :** cprapid.com, durumis.com
+**level 2 + :** hatenablog.com, hatenadiary.com, hateblo.jp, hatenablog.jp, hatenadiary.jp, craft.me, hatenadiary.org, cfolks.pl
 
-**level 3 - :** \*.cprapid.com
+**level 3 - :** g.vbrplsbx.io
 
