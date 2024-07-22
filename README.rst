@@ -16,7 +16,9 @@ Download directly with the applicable command for your OS.
 
 ``fetch https://raw.githubusercontent.com/jbaggs/tld-data/master/tld-data.zeek``
 
-Changes from 2024-07-13 to 2024-07-18:
+Changes from 2024-07-18 to 2024-07-22:
 --------------------------------------
-**level 3 - :** su.paba.se
+**level 2 + :** servebolt.cloud
+
+**level 3 + :** p.tawk.email, p.tawkto.email
 
