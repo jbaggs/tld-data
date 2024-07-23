@@ -16,9 +16,9 @@ Download directly with the applicable command for your OS.
 
 ``fetch https://raw.githubusercontent.com/jbaggs/tld-data/master/tld-data.zeek``
 
-Changes from 2024-07-18 to 2024-07-22:
+Changes from 2024-07-22 to 2024-07-23:
 --------------------------------------
-**level 2 + :** servebolt.cloud
+**level 2 - :** cyclic.app, onflashdrive.app, cyclic.cloud, cyclic-app.com, impertrix.com, impertrixcdn.com, c.la, filegear-au.me, filegear-de.me, filegear-gb.me, filegear-ie.me, filegear-jp.me, filegear-sg.me
 
-**level 3 + :** p.tawk.email, p.tawkto.email
+**level 3 - :** cyclic.co.in
 
