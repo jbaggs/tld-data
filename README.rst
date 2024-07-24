@@ -16,9 +16,7 @@ Download directly with the applicable command for your OS.
 
 ``fetch https://raw.githubusercontent.com/jbaggs/tld-data/master/tld-data.zeek``
 
-Changes from 2024-07-22 to 2024-07-23:
+Changes from 2024-07-23 to 2024-07-24:
 --------------------------------------
-**level 2 - :** cyclic.app, onflashdrive.app, cyclic.cloud, cyclic-app.com, impertrix.com, impertrixcdn.com, c.la, filegear-au.me, filegear-de.me, filegear-gb.me, filegear-ie.me, filegear-jp.me, filegear-sg.me
-
-**level 3 - :** cyclic.co.in
+**level 2 - :** shiftcrypto.dev, cya.gg, pcloud.host, backplaneapp.io, nid.io, shiftcrypto.io, mintere.site
 
