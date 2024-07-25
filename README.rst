@@ -16,7 +16,7 @@ Download directly with the applicable command for your OS.
 
 ``fetch https://raw.githubusercontent.com/jbaggs/tld-data/master/tld-data.zeek``
 
-Changes from 2024-07-23 to 2024-07-24:
+Changes from 2024-07-24 to 2024-07-25:
 --------------------------------------
-**level 2 - :** shiftcrypto.dev, cya.gg, pcloud.host, backplaneapp.io, nid.io, shiftcrypto.io, mintere.site
+**level 2 - :** pagefrontapp.com, mozilla-iot.org, graphox.us
 
