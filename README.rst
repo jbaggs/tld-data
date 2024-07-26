@@ -16,7 +16,7 @@ Download directly with the applicable command for your OS.
 
 ``fetch https://raw.githubusercontent.com/jbaggs/tld-data/master/tld-data.zeek``
 
-Changes from 2024-07-24 to 2024-07-25:
+Changes from 2024-07-25 to 2024-07-26:
 --------------------------------------
-**level 2 - :** pagefrontapp.com, mozilla-iot.org, graphox.us
+**level 2 - :** cloudcontrolapp.com, cloudcontrolled.com
 
