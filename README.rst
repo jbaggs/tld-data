@@ -16,7 +16,7 @@ Download directly with the applicable command for your OS.
 
 ``fetch https://raw.githubusercontent.com/jbaggs/tld-data/master/tld-data.zeek``
 
-Changes from 2024-07-25 to 2024-07-26:
+Changes from 2024-07-26 to 2024-07-29:
 --------------------------------------
-**level 2 - :** cloudcontrolapp.com, cloudcontrolled.com
+**level 2 - :** cupcake.is, flynnhosting.net
 
