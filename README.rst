@@ -16,11 +16,7 @@ Download directly with the applicable command for your OS.
 
 ``fetch https://raw.githubusercontent.com/jbaggs/tld-data/master/tld-data.zeek``
 
-Changes from 2024-08-14 to 2024-08-22:
+Changes from 2024-08-22 to 2024-09-03:
 --------------------------------------
-**level 2 - :** wellbeingzone.eu, bip.sh, blogsite.xyz
-
-**level 2 + :** wdh.app, matlab.cloud, modelscape.com, mwcloudnonprod.com, polyspace.com, readthedocs-hosted.com, routingthecloud.com, routingthecloud.net, routingthecloud.org
-
-**level 3 - :** \*.wdh.app, wellbeingzone.co.uk
+**level 3 + :** preview.wdh.app, t.hrsn.net
 
