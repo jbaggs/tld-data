@@ -16,7 +16,15 @@ Download directly with the applicable command for your OS.
 
 ``fetch https://raw.githubusercontent.com/jbaggs/tld-data/master/tld-data.zeek``
 
-Changes from 2024-08-22 to 2024-09-03:
+Changes from 2024-09-03 to 2024-09-05:
 --------------------------------------
-**level 3 + :** preview.wdh.app, t.hrsn.net
+**level 2 - :** fireweb.app, publishproxy.com
+
+**level 2 + :** nyat.app, diher.solutions
+
+**level 3 - :** \*.diher.solutions
+
+**level 3 + :** rss.my.id
+
+**level 4 - :** \*.rss.my.id
 
