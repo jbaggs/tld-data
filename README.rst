@@ -16,15 +16,15 @@ Download directly with the applicable command for your OS.
 
 ``fetch https://raw.githubusercontent.com/jbaggs/tld-data/master/tld-data.zeek``
 
-Changes from 2024-09-03 to 2024-09-05:
+Changes from 2024-09-05 to 2024-09-07:
 --------------------------------------
-**level 2 - :** fireweb.app, publishproxy.com
+**level 2 - :** ar.com, hu.com, kr.com, no.com, qc.com, uy.com, autocode.dev, flap.id, magnet.page, edu.scot, sch.so
 
-**level 2 + :** nyat.app, diher.solutions
+**level 2 + :** gob.cu, nat.cu, biz.ng, plc.ng
 
-**level 3 - :** \*.diher.solutions
+**level 3 - :** \*.dapps.earth, mc.eu.org
 
-**level 3 + :** rss.my.id
+**level 3 + :** \*.oraclecloudapps.com, \*.oraclegovcloudapps.com, co.biz.ng, dl.biz.ng, go.biz.ng, lg.biz.ng, on.biz.ng, \*.oraclegovcloudapps.uk
 
-**level 4 - :** \*.rss.my.id
+**level 4 - :** \*.bzz.dapps.earth
 
