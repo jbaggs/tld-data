@@ -16,15 +16,13 @@ Download directly with the applicable command for your OS.
 
 ``fetch https://raw.githubusercontent.com/jbaggs/tld-data/master/tld-data.zeek``
 
-Changes from 2024-09-05 to 2024-09-07:
+Changes from 2024-09-07 to 2024-09-09:
 --------------------------------------
-**level 2 - :** ar.com, hu.com, kr.com, no.com, qc.com, uy.com, autocode.dev, flap.id, magnet.page, edu.scot, sch.so
+**level 2 - :** mycloud.by, amscompute.com, kilatiron.com, faststacks.net
 
-**level 2 + :** gob.cu, nat.cu, biz.ng, plc.ng
+**level 2 + :** ctfcloud.net
 
-**level 3 - :** \*.dapps.earth, mc.eu.org
+**level 3 - :** lon.wafaicloud.com, cloud-fr1.unispace.io, upaas.kazteleport.kz, jelastic.tsukaeru.net, jelastic.regruhosting.ru
 
-**level 3 + :** \*.oraclecloudapps.com, \*.oraclegovcloudapps.com, co.biz.ng, dl.biz.ng, go.biz.ng, lg.biz.ng, on.biz.ng, \*.oraclegovcloudapps.uk
-
-**level 4 - :** \*.bzz.dapps.earth
+**level 5 - :** cloud.jelastic.open.tim.it
 
