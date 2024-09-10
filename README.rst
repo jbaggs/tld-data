@@ -16,13 +16,7 @@ Download directly with the applicable command for your OS.
 
 ``fetch https://raw.githubusercontent.com/jbaggs/tld-data/master/tld-data.zeek``
 
-Changes from 2024-09-07 to 2024-09-09:
+Changes from 2024-09-09 to 2024-09-10:
 --------------------------------------
-**level 2 - :** mycloud.by, amscompute.com, kilatiron.com, faststacks.net
-
-**level 2 + :** ctfcloud.net
-
-**level 3 - :** lon.wafaicloud.com, cloud-fr1.unispace.io, upaas.kazteleport.kz, jelastic.tsukaeru.net, jelastic.regruhosting.ru
-
-**level 5 - :** cloud.jelastic.open.tim.it
+**level 2 - :** ddnslive.com, crafting.xyz, zapto.xyz
 
