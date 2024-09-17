@@ -16,7 +16,7 @@ Download directly with the applicable command for your OS.
 
 ``fetch https://raw.githubusercontent.com/jbaggs/tld-data/master/tld-data.zeek``
 
-Changes from 2024-09-10 to 2024-09-12:
+Changes from 2024-09-12 to 2024-09-17:
 --------------------------------------
-**level 2 + :** v0.build, vusercontent.net
+**level 3 + :** t.hrsn.dev
 
