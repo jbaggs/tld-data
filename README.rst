@@ -16,11 +16,7 @@ Download directly with the applicable command for your OS.
 
 ``fetch https://raw.githubusercontent.com/jbaggs/tld-data/master/tld-data.zeek``
 
-Changes from 2024-09-17 to 2024-09-19:
+Changes from 2024-09-19 to 2024-09-20:
 --------------------------------------
-**level 2 - :** mycd.eu
-
-**level 2 + :** hrsn.dev
-
-**level 3 - :** \*.sensiosite.cloud, \*.s5y.io
+**level 2 - :** ktistory.com
 
