@@ -16,13 +16,7 @@ Download directly with the applicable command for your OS.
 
 ``fetch https://raw.githubusercontent.com/jbaggs/tld-data/master/tld-data.zeek``
 
-Changes from 2024-09-20 to 2024-09-26:
+Changes from 2024-09-26 to 2024-10-01:
 --------------------------------------
-**level 2 - :** forte.id, dyn53.io, daplie.me, certmgr.org
-
-**level 2 + :** shopware.shop, hf.space
-
-**level 3 - :** localhost.daplie.me
-
-**level 3 + :** static.hf.space
+**level 2 + :** bet.br, leilao.br, mydbserver.com, webspaceconfig.de, mittwald.info, mittwaldserver.info, typo3server.info, project.space
 
