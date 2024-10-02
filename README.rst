@@ -16,7 +16,7 @@ Download directly with the applicable command for your OS.
 
 ``fetch https://raw.githubusercontent.com/jbaggs/tld-data/master/tld-data.zeek``
 
-Changes from 2024-09-26 to 2024-10-01:
+Changes from 2024-10-01 to 2024-10-02:
 --------------------------------------
-**level 2 + :** bet.br, leilao.br, mydbserver.com, webspaceconfig.de, mittwald.info, mittwaldserver.info, typo3server.info, project.space
+**level 2 - :** cnpy.gdn
 
