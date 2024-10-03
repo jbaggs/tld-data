@@ -16,7 +16,11 @@ Download directly with the applicable command for your OS.
 
 ``fetch https://raw.githubusercontent.com/jbaggs/tld-data/master/tld-data.zeek``
 
-Changes from 2024-10-01 to 2024-10-02:
+Changes from 2024-10-02 to 2024-10-03:
 --------------------------------------
-**level 2 - :** cnpy.gdn
+**level 2 - :** bounty-full.com
+
+**level 2 + :** cnpy.gdn
+
+**level 3 - :** alpha.bounty-full.com, beta.bounty-full.com
 
