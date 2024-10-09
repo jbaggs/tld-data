@@ -16,11 +16,9 @@ Download directly with the applicable command for your OS.
 
 ``fetch https://raw.githubusercontent.com/jbaggs/tld-data/master/tld-data.zeek``
 
-Changes from 2024-10-02 to 2024-10-03:
+Changes from 2024-10-03 to 2024-10-09:
 --------------------------------------
-**level 2 - :** bounty-full.com
+**level 4 + :** execute-api.ap-southeast-5.amazonaws.com, s3.ap-southeast-5.amazonaws.com, s3-accesspoint.ap-southeast-5.amazonaws.com, s3-deprecated.ap-southeast-5.amazonaws.com, s3-object-lambda.ap-southeast-5.amazonaws.com, s3-website.ap-southeast-5.amazonaws.com, s3-object-lambda.ca-west-1.amazonaws.com
 
-**level 2 + :** cnpy.gdn
-
-**level 3 - :** alpha.bounty-full.com, beta.bounty-full.com
+**level 5 + :** s3-website.dualstack.ap-south-2.amazonaws.com, s3-website.dualstack.ap-southeast-3.amazonaws.com, s3-website.dualstack.ap-southeast-4.amazonaws.com, s3.dualstack.ap-southeast-5.amazonaws.com, s3-accesspoint.dualstack.ap-southeast-5.amazonaws.com, s3-website.dualstack.ap-southeast-5.amazonaws.com, s3-website.dualstack.eu-central-2.amazonaws.com, s3-website.dualstack.eu-south-2.amazonaws.com, s3-website.dualstack.il-central-1.amazonaws.com, s3-website.dualstack.me-central-1.amazonaws.com, s3-website.dualstack.us-east-2.amazonaws.com
 
