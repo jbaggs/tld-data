@@ -16,11 +16,7 @@ Download directly with the applicable command for your OS.
 
 ``fetch https://raw.githubusercontent.com/jbaggs/tld-data/master/tld-data.zeek``
 
-Changes from 2024-10-09 to 2024-10-10:
+Changes from 2024-10-10 to 2024-10-15:
 --------------------------------------
-**level 2 - :** blogspot.mr
-
-**level 2 + :** arvanedge.ir
-
-**level 3 - :** paris.eu.org, q-a.eu.org
+**level 3 - :** preview.wdh.app, t.hrsn.dev, t.hrsn.net
 
