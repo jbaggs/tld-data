@@ -16,7 +16,13 @@ Download directly with the applicable command for your OS.
 
 ``fetch https://raw.githubusercontent.com/jbaggs/tld-data/master/tld-data.zeek``
 
-Changes from 2024-10-10 to 2024-10-15:
+Changes from 2024-10-15 to 2024-10-16:
 --------------------------------------
-**level 3 - :** preview.wdh.app, t.hrsn.dev, t.hrsn.net
+**level 2 - :** ddns5.com, ybo.faith, museum.mw, ca.na, cc.na, dr.na, in.na, info.na, mobi.na, mx.na, name.na, or.na, pro.na, school.na, tv.na, us.na, ws.na, homelink.one, ybo.party, ne.pw, ybo.review, ybo.science, ybo.trade
+
+**level 2 + :** medusajs.app, alt.na, gov.na, net.na
+
+**level 3 - :** \*.banzai.cloud, app.banzaicloud.io, beta.tailscale.net
+
+**level 4 - :** \*.backyards.banzaicloud.io
 
