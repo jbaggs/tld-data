@@ -16,7 +16,7 @@ Download directly with the applicable command for your OS.
 
 ``fetch https://raw.githubusercontent.com/jbaggs/tld-data/master/tld-data.zeek``
 
-Changes from 2024-10-16 to 2024-10-17:
+Changes from 2024-10-17 to 2024-10-19:
 --------------------------------------
-**level 2 - :** bloxcms.com
+**level 2 + :** edu.ao, gov.ao, org.ao, co.ss
 
