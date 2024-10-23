@@ -16,7 +16,7 @@ Download directly with the applicable command for your OS.
 
 ``fetch https://raw.githubusercontent.com/jbaggs/tld-data/master/tld-data.zeek``
 
-Changes from 2024-10-19 to 2024-10-22:
+Changes from 2024-10-22 to 2024-10-23:
 --------------------------------------
-**level 2 + :** cloud-ip.biz, ip-dynamic.org
+**level 2 - :** hs.run, hs.zone
 
