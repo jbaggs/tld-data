@@ -16,7 +16,7 @@ Download directly with the applicable command for your OS.
 
 ``fetch https://raw.githubusercontent.com/jbaggs/tld-data/master/tld-data.zeek``
 
-Changes from 2024-10-22 to 2024-10-23:
+Changes from 2024-10-23 to 2024-10-25:
 --------------------------------------
-**level 2 - :** hs.run, hs.zone
+**level 2 - :** gov.cu
 
