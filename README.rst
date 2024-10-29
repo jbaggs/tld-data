@@ -16,9 +16,7 @@ Download directly with the applicable command for your OS.
 
 ``fetch https://raw.githubusercontent.com/jbaggs/tld-data/master/tld-data.zeek``
 
-Changes from 2024-10-25 to 2024-10-26:
+Changes from 2024-10-26 to 2024-10-29:
 --------------------------------------
-**level 2 - :** md.ci, presse.ci
-
-**level 2 + :** co.io, edu.io, gov.io, mil.io, net.io, nom.io, org.io
+**level 2 + :** grafana-dev.net
 
