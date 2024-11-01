@@ -16,7 +16,7 @@ Download directly with the applicable command for your OS.
 
 ``fetch https://raw.githubusercontent.com/jbaggs/tld-data/master/tld-data.zeek``
 
-Changes from 2024-10-26 to 2024-10-29:
+Changes from 2024-10-29 to 2024-11-01:
 --------------------------------------
-**level 2 + :** grafana-dev.net
+**level 2 + :** home.arpa, ip-ddns.com, taveusercontent.com, ddns-ip.net
 
