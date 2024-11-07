@@ -16,7 +16,9 @@ Download directly with the applicable command for your OS.
 
 ``fetch https://raw.githubusercontent.com/jbaggs/tld-data/master/tld-data.zeek``
 
-Changes from 2024-10-29 to 2024-11-01:
+Changes from 2024-11-01 to 2024-11-07:
 --------------------------------------
-**level 2 + :** home.arpa, ip-ddns.com, taveusercontent.com, ddns-ip.net
+**level 2 - :** onred.one
+
+**level 3 - :** staging.onred.one, bci.dnstrace.pro
 
