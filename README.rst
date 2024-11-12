@@ -16,9 +16,9 @@ Download directly with the applicable command for your OS.
 
 ``fetch https://raw.githubusercontent.com/jbaggs/tld-data/master/tld-data.zeek``
 
-Changes from 2024-11-01 to 2024-11-07:
+Changes from 2024-11-07 to 2024-11-12:
 --------------------------------------
-**level 2 - :** onred.one
+**level 2 - :** corpnet.work
 
-**level 3 - :** staging.onred.one, bci.dnstrace.pro
+**level 2 + :** co.bz
 
