@@ -16,9 +16,9 @@ Download directly with the applicable command for your OS.
 
 ``fetch https://raw.githubusercontent.com/jbaggs/tld-data/master/tld-data.zeek``
 
-Changes from 2024-11-07 to 2024-11-12:
+Changes from 2024-11-12 to 2024-11-13:
 --------------------------------------
-**level 2 - :** corpnet.work
+**level 2 + :** lodz.pl, pabianice.pl, plock.pl, sieradz.pl, skierniewice.pl, zgierz.pl
 
-**level 2 + :** co.bz
+**level 4 + :** pages-research.it.hs-heilbronn.de
 
