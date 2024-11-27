@@ -16,9 +16,7 @@ Download directly with the applicable command for your OS.
 
 ``fetch https://raw.githubusercontent.com/jbaggs/tld-data/master/tld-data.zeek``
 
-Changes from 2024-11-20 to 2024-11-22:
+Changes from 2024-11-22 to 2024-11-27:
 --------------------------------------
-**level 2 - :** mil.ge
-
-**level 2 + :** school.ge
+**level 2 + :** id.cv, net.cv, publ.cv
 
