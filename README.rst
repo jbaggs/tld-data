@@ -16,7 +16,9 @@ Download directly with the applicable command for your OS.
 
 ``fetch https://raw.githubusercontent.com/jbaggs/tld-data/master/tld-data.zeek``
 
-Changes from 2024-11-28 to 2024-11-30:
+Changes from 2024-11-30 to 2024-12-03:
 --------------------------------------
-**level 2 - :** mcpe.me
+**level 2 - :** upli.io
+
+**level 4 + :** o365.cloud.nospamproxy.com
 
