@@ -16,9 +16,9 @@ Download directly with the applicable command for your OS.
 
 ``fetch https://raw.githubusercontent.com/jbaggs/tld-data/master/tld-data.zeek``
 
-Changes from 2024-12-03 to 2024-12-05:
+Changes from 2024-12-05 to 2024-12-09:
 --------------------------------------
-**level 2 - :** 0e.vc
+**level 2 - :** test.ru
 
-**level 3 + :** \*.0e.vc
+**level 2 + :** on-fleek.app, netlib.re
 
