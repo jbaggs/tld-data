@@ -16,9 +16,9 @@ Download directly with the applicable command for your OS.
 
 ``fetch https://raw.githubusercontent.com/jbaggs/tld-data/master/tld-data.zeek``
 
-Changes from 2024-12-05 to 2024-12-09:
+Changes from 2024-12-09 to 2024-12-11:
 --------------------------------------
-**level 2 - :** test.ru
+**level 2 - :** platform0.app, belau.pw, co.pw, ed.pw, go.pw, or.pw, fnwk.site, folionetwork.site, fed.us, kids.us
 
-**level 2 + :** on-fleek.app, netlib.re
+**level 2 + :** aiven.app, gov.pw
 
