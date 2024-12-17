@@ -16,7 +16,7 @@ Download directly with the applicable command for your OS.
 
 ``fetch https://raw.githubusercontent.com/jbaggs/tld-data/master/tld-data.zeek``
 
-Changes from 2024-12-13 to 2024-12-16:
+Changes from 2024-12-16 to 2024-12-17:
 --------------------------------------
-**level 2 - :** secaas.hk
+**level 2 - :** n4t.co, 001www.com, lab.ms, now-dns.top
 
