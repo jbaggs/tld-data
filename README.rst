@@ -16,11 +16,7 @@ Download directly with the applicable command for your OS.
 
 ``fetch https://raw.githubusercontent.com/jbaggs/tld-data/master/tld-data.zeek``
 
-Changes from 2024-12-17 to 2024-12-24:
+Changes from 2024-12-24 to 2025-01-05:
 --------------------------------------
-**level 2 - :** platter-app.com, curv.dev, drud.io, spacekit.io, gon.pk, diher.solutions, drud.us
-
-**level 2 + :** botdash.app, botdash.dev, botdash.gg, botdash.net, botda.sh, botdash.xyz
-
-**level 3 - :** rss.my.id
+**level 2 - :** fin.ci, free.hr, caa.li, ua.rs, conf.se
 
