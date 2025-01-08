@@ -16,7 +16,13 @@ Download directly with the applicable command for your OS.
 
 ``fetch https://raw.githubusercontent.com/jbaggs/tld-data/master/tld-data.zeek``
 
-Changes from 2024-12-24 to 2025-01-05:
+Changes from 2025-01-05 to 2025-01-08:
 --------------------------------------
-**level 2 - :** fin.ci, free.hr, caa.li, ua.rs, conf.se
+**level 2 + :** cloudbeesusercontent.io
+
+**level 4 + :** sub.psl.hrsn.dev
+
+**level 5 + :** \*.wc.psl.hrsn.dev
+
+**level 6 + :** \*.sub.wc.psl.hrsn.dev
 
