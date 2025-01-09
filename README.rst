@@ -16,13 +16,9 @@ Download directly with the applicable command for your OS.
 
 ``fetch https://raw.githubusercontent.com/jbaggs/tld-data/master/tld-data.zeek``
 
-Changes from 2025-01-05 to 2025-01-08:
+Changes from 2025-01-08 to 2025-01-09:
 --------------------------------------
-**level 2 + :** cloudbeesusercontent.io
+**level 2 + :** liara.run
 
-**level 4 + :** sub.psl.hrsn.dev
-
-**level 5 + :** \*.wc.psl.hrsn.dev
-
-**level 6 + :** \*.sub.wc.psl.hrsn.dev
+**level 3 + :** iran.liara.run
 
