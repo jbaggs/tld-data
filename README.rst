@@ -16,9 +16,7 @@ Download directly with the applicable command for your OS.
 
 ``fetch https://raw.githubusercontent.com/jbaggs/tld-data/master/tld-data.zeek``
 
-Changes from 2025-01-09 to 2025-01-10:
+Changes from 2025-01-10 to 2025-01-16:
 --------------------------------------
-**level 2 + :** edu.vg
-
-**level 4 + :** transfer-webapp.ap-northeast-1.on.aws, transfer-webapp.ap-southeast-1.on.aws, transfer-webapp.ap-southeast-2.on.aws, transfer-webapp.eu-central-1.on.aws, transfer-webapp.eu-north-1.on.aws, transfer-webapp.eu-west-1.on.aws, transfer-webapp.us-east-1.on.aws, transfer-webapp.us-east-2.on.aws, transfer-webapp.us-west-2.on.aws, studio.eu-central-2.sagemaker.aws
+**level 2 + :** subsc-pay.com, subsc-pay.net
 
