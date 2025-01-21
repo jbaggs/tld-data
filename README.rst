@@ -16,7 +16,7 @@ Download directly with the applicable command for your OS.
 
 ``fetch https://raw.githubusercontent.com/jbaggs/tld-data/master/tld-data.zeek``
 
-Changes from 2025-01-10 to 2025-01-16:
+Changes from 2025-01-16 to 2025-01-21:
 --------------------------------------
-**level 2 + :** subsc-pay.com, subsc-pay.net
+**level 2 + :** ac.ml, art.ml, asso.ml, info.ml, inst.ml, pr.ml
 
