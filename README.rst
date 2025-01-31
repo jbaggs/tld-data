@@ -16,7 +16,11 @@ Download directly with the applicable command for your OS.
 
 ``fetch https://raw.githubusercontent.com/jbaggs/tld-data/master/tld-data.zeek``
 
-Changes from 2025-01-21 to 2025-01-26:
+Changes from 2025-01-26 to 2025-01-31:
 --------------------------------------
-**level 2 + :** edu.ug, gov.ug, mil.ug, us.ug
+**level 2 + :** obj.ag, brave.app, localtonet.com, brave.io
+
+**level 3 + :** \*.localto.net
+
+**level 4 + :** \*.s.brave.app
 
