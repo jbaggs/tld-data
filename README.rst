@@ -16,7 +16,7 @@ Download directly with the applicable command for your OS.
 
 ``fetch https://raw.githubusercontent.com/jbaggs/tld-data/master/tld-data.zeek``
 
-Changes from 2025-01-31 to 2025-02-07:
+Changes from 2025-02-07 to 2025-02-10:
 --------------------------------------
-**level 2 + :** alibabacloudcs.com
+**level 2 + :** laravel.cloud
 
