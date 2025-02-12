@@ -16,7 +16,9 @@ Download directly with the applicable command for your OS.
 
 ``fetch https://raw.githubusercontent.com/jbaggs/tld-data/master/tld-data.zeek``
 
-Changes from 2025-02-07 to 2025-02-10:
+Changes from 2025-02-10 to 2025-02-12:
 --------------------------------------
-**level 2 + :** laravel.cloud
+**level 2 + :** bubbleapps.io
+
+**level 3 + :** cdn.bubble.io
 
