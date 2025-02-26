@@ -16,7 +16,7 @@ Download directly with the applicable command for your OS.
 
 ``fetch https://raw.githubusercontent.com/jbaggs/tld-data/master/tld-data.zeek``
 
-Changes from 2025-02-12 to 2025-02-18:
+Changes from 2025-02-18 to 2025-02-26:
 --------------------------------------
-**level 2 + :** lovable.app, lovableproject.com
+**level 2 + :** square.site, emprende.ve
 
