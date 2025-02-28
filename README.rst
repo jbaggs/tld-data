@@ -16,7 +16,7 @@ Download directly with the applicable command for your OS.
 
 ``fetch https://raw.githubusercontent.com/jbaggs/tld-data/master/tld-data.zeek``
 
-Changes from 2025-02-26 to 2025-02-27:
+Changes from 2025-02-27 to 2025-02-28:
 --------------------------------------
-**level 3 + :** \*.zerops.app
+**level 2 + :** zone.id
 
