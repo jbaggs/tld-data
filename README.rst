@@ -16,7 +16,7 @@ Download directly with the applicable command for your OS.
 
 ``fetch https://raw.githubusercontent.com/jbaggs/tld-data/master/tld-data.zeek``
 
-Changes from 2025-02-28 to 2025-03-01:
+Changes from 2025-03-01 to 2025-03-05:
 --------------------------------------
-**level 2 + :** cpanel.site
+**level 2 + :** deno.net
 
