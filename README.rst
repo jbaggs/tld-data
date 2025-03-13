@@ -16,7 +16,7 @@ Download directly with the applicable command for your OS.
 
 ``fetch https://raw.githubusercontent.com/jbaggs/tld-data/master/tld-data.zeek``
 
-Changes from 2025-03-05 to 2025-03-07:
+Changes from 2025-03-07 to 2025-03-13:
 --------------------------------------
-**level 2 + :** deus-canvas.com, oninferno.net
+**level 2 + :** ai.kr, io.kr, it.kr, me.kr
 
