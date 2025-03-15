@@ -16,7 +16,7 @@ Download directly with the applicable command for your OS.
 
 ``fetch https://raw.githubusercontent.com/jbaggs/tld-data/master/tld-data.zeek``
 
-Changes from 2025-03-13 to 2025-03-14:
+Changes from 2025-03-14 to 2025-03-15:
 --------------------------------------
-**level 2 + :** c01.kr, eliv-dns.kr
+**level 3 + :** \*.inbrowser.dev, \*.inbrowser.link
 
