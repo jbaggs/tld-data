@@ -16,7 +16,9 @@ Download directly with the applicable command for your OS.
 
 ``fetch https://raw.githubusercontent.com/jbaggs/tld-data/master/tld-data.zeek``
 
-Changes from 2025-03-14 to 2025-03-15:
+Changes from 2025-03-15 to 2025-03-18:
 --------------------------------------
-**level 3 + :** \*.inbrowser.dev, \*.inbrowser.link
+**level 2 + :** devinapps.com, dpdns.org
+
+**level 3 + :** staging.devinapps.com
 
