@@ -16,9 +16,7 @@ Download directly with the applicable command for your OS.
 
 ``fetch https://raw.githubusercontent.com/jbaggs/tld-data/master/tld-data.zeek``
 
-Changes from 2025-03-19 to 2025-03-28:
+Changes from 2025-03-28 to 2025-04-08:
 --------------------------------------
-**level 2 + :** appwrite.global
-
-**level 3 + :** ipfs.storacha.link, ipfs.w3s.link, \*.appwrite.run
+**level 2 + :** windsurf.app, windsurf.build
 
