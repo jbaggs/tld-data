@@ -16,7 +16,15 @@ Download directly with the applicable command for your OS.
 
 ``fetch https://raw.githubusercontent.com/jbaggs/tld-data/master/tld-data.zeek``
 
-Changes from 2025-03-28 to 2025-04-08:
+Changes from 2025-04-08 to 2025-04-11:
 --------------------------------------
-**level 2 + :** windsurf.app, windsurf.build
+**level 2 - :** devinapps.com
+
+**level 2 + :** convex.app, e2b.app, seg.ar, convex.cloud, figma.site
+
+**level 3 - :** staging.devinapps.com
+
+**level 3 + :** \*.devinapps.com
+
+**level 4 + :** auth.ap-southeast-5.amazoncognito.com, auth-fips.us-gov-east-1.amazoncognito.com
 
