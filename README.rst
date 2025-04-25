@@ -16,11 +16,9 @@ Download directly with the applicable command for your OS.
 
 ``fetch https://raw.githubusercontent.com/jbaggs/tld-data/master/tld-data.zeek``
 
-Changes from 2025-04-16 to 2025-04-23:
+Changes from 2025-04-23 to 2025-04-25:
 --------------------------------------
-**level 2 + :** luyani.app, luyani.net, val.run
+**level 2 + :** lp.dev, mmv.kr, vki.kr, preview.site
 
-**level 3 - :** express.val.run
-
-**level 3 + :** lpg.objectstorage.ch, rma.objectstorage.ch
+**level 3 + :** dev.project-study.com
 
