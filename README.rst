@@ -16,9 +16,7 @@ Download directly with the applicable command for your OS.
 
 ``fetch https://raw.githubusercontent.com/jbaggs/tld-data/master/tld-data.zeek``
 
-Changes from 2025-04-23 to 2025-04-25:
+Changes from 2025-04-25 to 2025-04-30:
 --------------------------------------
-**level 2 + :** lp.dev, mmv.kr, vki.kr, preview.site
-
-**level 3 + :** dev.project-study.com
+**level 2 + :** onid.ca
 
