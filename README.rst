@@ -16,7 +16,13 @@ Download directly with the applicable command for your OS.
 
 ``fetch https://raw.githubusercontent.com/jbaggs/tld-data/master/tld-data.zeek``
 
-Changes from 2025-04-25 to 2025-04-30:
+Changes from 2025-04-30 to 2025-05-09:
 --------------------------------------
-**level 2 + :** onid.ca
+**level 2 - :** localhostcert.net
+
+**level 4 - :** sub.psl.hrsn.dev
+
+**level 5 - :** \*.wc.psl.hrsn.dev
+
+**level 6 - :** \*.sub.wc.psl.hrsn.dev
 
