@@ -16,9 +16,9 @@ Download directly with the applicable command for your OS.
 
 ``fetch https://raw.githubusercontent.com/jbaggs/tld-data/master/tld-data.zeek``
 
-Changes from 2025-05-21 to 2025-05-22:
+Changes from 2025-05-22 to 2025-05-27:
 --------------------------------------
-**level 2 + :** github.app, iserv.host, eliv-cdn.kr
+**level 2 + :** caffeine.ai, id.ai, icp-api.io, icp0.io, icp1.io, caffeine.site
 
-**level 3 + :** frontend.encr.app, api.lp.dev, objects.lp.dev
+**level 4 + :** \*.raw.icp0.io, \*.raw.icp1.io
 
