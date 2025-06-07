@@ -16,11 +16,7 @@ Download directly with the applicable command for your OS.
 
 ``fetch https://raw.githubusercontent.com/jbaggs/tld-data/master/tld-data.zeek``
 
-Changes from 2025-06-03 to 2025-06-06:
+Changes from 2025-06-06 to 2025-06-07:
 --------------------------------------
-**level 2 + :** vercel.run
-
-**level 3 + :** \*.lutrausercontent.com
-
-**level 4 + :** \*.mtls.run.app
+**level 2 + :** webspace-host.com
 
