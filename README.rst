@@ -16,7 +16,9 @@ Download directly with the applicable command for your OS.
 
 ``fetch https://raw.githubusercontent.com/jbaggs/tld-data/master/tld-data.zeek``
 
-Changes from 2025-06-06 to 2025-06-07:
+Changes from 2025-06-07 to 2025-06-10:
 --------------------------------------
-**level 2 + :** webspace-host.com
+**level 2 + :** 4.at, my.at, my.de, nx.gw
+
+**level 3 + :** \*.nxa.eu
 
