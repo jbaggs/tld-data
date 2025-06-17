@@ -16,9 +16,7 @@ Download directly with the applicable command for your OS.
 
 ``fetch https://raw.githubusercontent.com/jbaggs/tld-data/master/tld-data.zeek``
 
-Changes from 2025-06-10 to 2025-06-13:
+Changes from 2025-06-13 to 2025-06-17:
 --------------------------------------
-**level 2 - :** hlx3.page
-
-**level 2 + :** aem.network, aem.reviews
+**level 2 + :** vistablog.ir
 
