@@ -16,7 +16,7 @@ Download directly with the applicable command for your OS.
 
 ``fetch https://raw.githubusercontent.com/jbaggs/tld-data/master/tld-data.zeek``
 
-Changes from 2025-07-17 to 2025-07-19:
+Changes from 2025-07-19 to 2025-07-23:
 --------------------------------------
-**level 3 - :** \*.uberspace.de
+**level 2 + :** lovable.run, lovable.sh
 
