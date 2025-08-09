@@ -16,7 +16,9 @@ Download directly with the applicable command for your OS.
 
 ``fetch https://raw.githubusercontent.com/jbaggs/tld-data/master/tld-data.zeek``
 
-Changes from 2025-07-23 to 2025-08-02:
+Changes from 2025-08-02 to 2025-08-09:
 --------------------------------------
-**level 2 + :** co.de
+**level 2 - :** caffeine.ai, id.ai, biz.gl, icp-api.io
+
+**level 2 + :** hidns.co, hidns.vip
 
