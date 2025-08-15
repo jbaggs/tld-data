@@ -16,9 +16,7 @@ Download directly with the applicable command for your OS.
 
 ``fetch https://raw.githubusercontent.com/jbaggs/tld-data/master/tld-data.zeek``
 
-Changes from 2025-08-12 to 2025-08-13:
+Changes from 2025-08-13 to 2025-08-15:
 --------------------------------------
-**level 2 + :** erp.dev, zabc.net
-
-**level 3 + :** \*.qualyhqpartner.com, \*.qualyhqportal.com, web.erp.dev, \*.icp.net
+**level 2 + :** gov.cz
 
