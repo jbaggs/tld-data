@@ -16,9 +16,9 @@ Download directly with the applicable command for your OS.
 
 ``fetch https://raw.githubusercontent.com/jbaggs/tld-data/master/tld-data.zeek``
 
-Changes from 2025-08-15 to 2025-08-18:
+Changes from 2025-08-18 to 2025-08-19:
 --------------------------------------
-**level 2 - :** glitch.me
+**level 2 + :** hrsn.au
 
-**level 2 + :** same-app.com, same-preview.com
+**level 3 + :** vps.hrsn.au
 
