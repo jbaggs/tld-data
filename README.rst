@@ -16,9 +16,7 @@ Download directly with the applicable command for your OS.
 
 ``fetch https://raw.githubusercontent.com/jbaggs/tld-data/master/tld-data.zeek``
 
-Changes from 2025-08-18 to 2025-08-19:
+Changes from 2025-08-19 to 2025-08-20:
 --------------------------------------
-**level 2 + :** hrsn.au
-
-**level 3 + :** vps.hrsn.au
+**level 2 + :** sourcecraft.site
 
