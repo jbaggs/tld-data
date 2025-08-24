@@ -16,7 +16,7 @@ Download directly with the applicable command for your OS.
 
 ``fetch https://raw.githubusercontent.com/jbaggs/tld-data/master/tld-data.zeek``
 
-Changes from 2025-08-19 to 2025-08-20:
+Changes from 2025-08-20 to 2025-08-24:
 --------------------------------------
-**level 2 + :** sourcecraft.site
+**level 4 - :** schools.nsw.edu.au
 
