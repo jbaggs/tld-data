@@ -16,7 +16,9 @@ Download directly with the applicable command for your OS.
 
 ``fetch https://raw.githubusercontent.com/jbaggs/tld-data/master/tld-data.zeek``
 
-Changes from 2025-08-20 to 2025-08-24:
+Changes from 2025-08-24 to 2025-08-26:
 --------------------------------------
-**level 4 - :** schools.nsw.edu.au
+**level 2 + :** api.br, ia.br, social.br, xyz.br
+
+**level 3 - :** lib.de.us
 
