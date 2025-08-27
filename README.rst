@@ -16,9 +16,9 @@ Download directly with the applicable command for your OS.
 
 ``fetch https://raw.githubusercontent.com/jbaggs/tld-data/master/tld-data.zeek``
 
-Changes from 2025-08-24 to 2025-08-26:
+Changes from 2025-08-26 to 2025-08-27:
 --------------------------------------
-**level 2 + :** api.br, ia.br, social.br, xyz.br
+**level 2 + :** wal.app
 
-**level 3 - :** lib.de.us
+**level 3 + :** realtime.supabase.co, storage.supabase.co
 
