@@ -16,7 +16,7 @@ Download directly with the applicable command for your OS.
 
 ``fetch https://raw.githubusercontent.com/jbaggs/tld-data/master/tld-data.zeek``
 
-Changes from 2025-09-07 to 2025-09-12:
+Changes from 2025-09-12 to 2025-09-18:
 --------------------------------------
-**level 2 - :** mydrobo.com, servers.run
+**level 2 + :** jote-dr-lt1.com, jote-rd-lt1.com, support.site
 
