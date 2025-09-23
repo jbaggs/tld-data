@@ -16,9 +16,7 @@ Download directly with the applicable command for your OS.
 
 ``fetch https://raw.githubusercontent.com/jbaggs/tld-data/master/tld-data.zeek``
 
-Changes from 2025-09-18 to 2025-09-22:
+Changes from 2025-09-22 to 2025-09-23:
 --------------------------------------
-**level 2 - :** airkitapps.com, airkitapps-au.com, airkitapps.eu
-
-**level 2 + :** e.id
+**level 2 + :** teleport.sh
 
