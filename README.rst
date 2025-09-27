@@ -16,7 +16,7 @@ Download directly with the applicable command for your OS.
 
 ``fetch https://raw.githubusercontent.com/jbaggs/tld-data/master/tld-data.zeek``
 
-Changes from 2025-09-23 to 2025-09-26:
+Changes from 2025-09-26 to 2025-09-27:
 --------------------------------------
-**level 3 + :** \*.xenonconnect.de
+**level 2 + :** rice-labs.com, canva.run
 
