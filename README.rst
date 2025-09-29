@@ -16,7 +16,7 @@ Download directly with the applicable command for your OS.
 
 ``fetch https://raw.githubusercontent.com/jbaggs/tld-data/master/tld-data.zeek``
 
-Changes from 2025-09-26 to 2025-09-27:
+Changes from 2025-09-27 to 2025-09-29:
 --------------------------------------
-**level 2 + :** rice-labs.com, canva.run
+**level 2 + :** leapcell.app, cloud-ip.cc, abrdns.com, leapcell.dev, bolt.host, leapcell.online
 
