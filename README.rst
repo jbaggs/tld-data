@@ -16,9 +16,7 @@ Download directly with the applicable command for your OS.
 
 ``fetch https://raw.githubusercontent.com/jbaggs/tld-data/master/tld-data.zeek``
 
-Changes from 2025-09-29 to 2025-10-13:
+Changes from 2025-10-13 to 2025-10-17:
 --------------------------------------
-**level 2 - :** jote-dr-lt1.com, jote-rd-lt1.com
-
-**level 2 + :** canva-hosted-embed.com, canvacode.com, eu1-plenit.com, la1-plenit.com, us1-plenit.com, caffeine.xyz
+**level 2 + :** website.one
 
