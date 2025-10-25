@@ -16,7 +16,7 @@ Download directly with the applicable command for your OS.
 
 ``fetch https://raw.githubusercontent.com/jbaggs/tld-data/master/tld-data.zeek``
 
-Changes from 2025-10-13 to 2025-10-17:
+Changes from 2025-10-17 to 2025-10-25:
 --------------------------------------
-**level 2 + :** website.one
+**level 2 + :** bearblog.dev, needle.run
 
