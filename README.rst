@@ -16,7 +16,9 @@ Download directly with the applicable command for your OS.
 
 ``fetch https://raw.githubusercontent.com/jbaggs/tld-data/master/tld-data.zeek``
 
-Changes from 2025-10-17 to 2025-10-25:
+Changes from 2025-10-25 to 2025-10-26:
 --------------------------------------
-**level 2 + :** bearblog.dev, needle.run
+**level 2 - :** \*.bd
+
+**level 2 + :** ac.bd, ai.bd, co.bd, com.bd, edu.bd, gov.bd, id.bd, info.bd, it.bd, mil.bd, net.bd, org.bd, sch.bd, tv.bd
 
