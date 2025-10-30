@@ -16,7 +16,7 @@ Download directly with the applicable command for your OS.
 
 ``fetch https://raw.githubusercontent.com/jbaggs/tld-data/master/tld-data.zeek``
 
-Changes from 2025-10-28 to 2025-10-29:
+Changes from 2025-10-29 to 2025-10-30:
 --------------------------------------
-**level 2 + :** cloudflare.app
+**level 2 + :** wasmer.app
 
