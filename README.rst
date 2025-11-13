@@ -16,7 +16,7 @@ Download directly with the applicable command for your OS.
 
 ``fetch https://raw.githubusercontent.com/jbaggs/tld-data/master/tld-data.zeek``
 
-Changes from 2025-11-11 to 2025-11-12:
+Changes from 2025-11-12 to 2025-11-13:
 --------------------------------------
-**level 2 + :** de5.net, tunnelmole.net
+**level 2 + :** co.site
 
