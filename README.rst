@@ -16,7 +16,7 @@ Download directly with the applicable command for your OS.
 
 ``fetch https://raw.githubusercontent.com/jbaggs/tld-data/master/tld-data.zeek``
 
-Changes from 2025-11-13 to 2025-11-14:
+Changes from 2025-11-14 to 2025-11-17:
 --------------------------------------
-**level 2 + :** emergent.cloud, umso.co, emergent.host
+**level 2 - :** wdh.app, hrsn.au
 
