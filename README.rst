@@ -16,7 +16,7 @@ Download directly with the applicable command for your OS.
 
 ``fetch https://raw.githubusercontent.com/jbaggs/tld-data/master/tld-data.zeek``
 
-Changes from 2025-11-17 to 2025-11-18:
+Changes from 2025-11-18 to 2025-11-24:
 --------------------------------------
-**level 2 + :** prvw.eu
+**level 2 + :** xtooldevice.com, grebedoc.dev, xn--9tfky.id (ᬩᬮᬶ.id)
 
