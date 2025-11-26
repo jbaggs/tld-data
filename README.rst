@@ -16,7 +16,13 @@ Download directly with the applicable command for your OS.
 
 ``fetch https://raw.githubusercontent.com/jbaggs/tld-data/master/tld-data.zeek``
 
-Changes from 2025-11-18 to 2025-11-24:
+Changes from 2025-11-24 to 2025-11-26:
 --------------------------------------
-**level 2 + :** xtooldevice.com, grebedoc.dev, xn--9tfky.id (ᬩᬮᬶ.id)
+**level 2 - :** obl.ong
+
+**level 2 + :** gadget.app, brave.dev, gadget.host, usgovcloudapp.net, azure-api.us, azurewebsites.us
+
+**level 3 + :** servicebus.usgovcloudapi.net
+
+**level 4 + :** \*.s.brave.dev
 
