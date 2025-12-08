@@ -16,11 +16,7 @@ Download directly with the applicable command for your OS.
 
 ``fetch https://raw.githubusercontent.com/jbaggs/tld-data/master/tld-data.zeek``
 
-Changes from 2025-11-27 to 2025-12-04:
+Changes from 2025-12-04 to 2025-12-08:
 --------------------------------------
-**level 2 - :** lk3.ru
-
-**level 3 + :** preview.emergentagent.com
-
-**level 4 + :** \*.clusters.rdpa.co, \*.srvrless.rdpa.co
+**level 2 + :** co.scot, me.scot, org.scot
 
