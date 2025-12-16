@@ -16,7 +16,7 @@ Download directly with the applicable command for your OS.
 
 ``fetch https://raw.githubusercontent.com/jbaggs/tld-data/master/tld-data.zeek``
 
-Changes from 2025-12-04 to 2025-12-08:
+Changes from 2025-12-08 to 2025-12-16:
 --------------------------------------
-**level 2 + :** co.scot, me.scot, org.scot
+**level 2 + :** sav.case
 
