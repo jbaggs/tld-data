@@ -16,9 +16,7 @@ Download directly with the applicable command for your OS.
 
 ``fetch https://raw.githubusercontent.com/jbaggs/tld-data/master/tld-data.zeek``
 
-Changes from 2025-12-20 to 2025-12-21:
+Changes from 2025-12-21 to 2025-12-22:
 --------------------------------------
-**level 2 + :** imagine-proxy.work
-
-**level 3 + :** \*.cn.st
+**level 2 + :** ae.kg, org.sk, nett.to
 
