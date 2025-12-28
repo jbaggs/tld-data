@@ -16,7 +16,7 @@ Download directly with the applicable command for your OS.
 
 ``fetch https://raw.githubusercontent.com/jbaggs/tld-data/master/tld-data.zeek``
 
-Changes from 2025-12-21 to 2025-12-22:
+Changes from 2025-12-22 to 2025-12-28:
 --------------------------------------
-**level 2 + :** ae.kg, org.sk, nett.to
+**level 2 + :** ec.cc, eu.cc, gu.cc, uk.cc, us.cc, gv.uy
 
