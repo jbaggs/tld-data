@@ -16,7 +16,7 @@ Download directly with the applicable command for your OS.
 
 ``fetch https://raw.githubusercontent.com/jbaggs/tld-data/master/tld-data.zeek``
 
-Changes from 2025-12-22 to 2025-12-28:
+Changes from 2025-12-28 to 2026-01-07:
 --------------------------------------
-**level 2 + :** ec.cc, eu.cc, gu.cc, uk.cc, us.cc, gv.uy
+**level 2 - :** skygearapp.com, dd-dns.de, dray-dns.de, draydns.de, dyn-vpn.de, dynvpn.de, mein-vigor.de, my-vigor.de, my-wan.de, syno-ds.de, synology-diskstation.de, synology-ds.de, diskstation.eu, onavstack.net, diskstation.org, translated.page, perso.sn
 
