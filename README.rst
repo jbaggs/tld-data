@@ -16,7 +16,9 @@ Download directly with the applicable command for your OS.
 
 ``fetch https://raw.githubusercontent.com/jbaggs/tld-data/master/tld-data.zeek``
 
-Changes from 2025-12-28 to 2026-01-07:
+Changes from 2026-01-07 to 2026-01-08:
 --------------------------------------
-**level 2 - :** skygearapp.com, dd-dns.de, dray-dns.de, draydns.de, dyn-vpn.de, dynvpn.de, mein-vigor.de, my-vigor.de, my-wan.de, syno-ds.de, synology-diskstation.de, synology-ds.de, diskstation.eu, onavstack.net, diskstation.org, translated.page, perso.sn
+**level 2 + :** deuxfleurs.eu, deuxfleurs.page
+
+**level 3 + :** \*.bwcloud-os-instance.de
 
