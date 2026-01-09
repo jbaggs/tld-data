@@ -16,9 +16,7 @@ Download directly with the applicable command for your OS.
 
 ``fetch https://raw.githubusercontent.com/jbaggs/tld-data/master/tld-data.zeek``
 
-Changes from 2026-01-07 to 2026-01-08:
+Changes from 2026-01-08 to 2026-01-09:
 --------------------------------------
-**level 2 + :** deuxfleurs.eu, deuxfleurs.page
-
-**level 3 + :** \*.bwcloud-os-instance.de
+**level 2 + :** eliv-api.kr
 
