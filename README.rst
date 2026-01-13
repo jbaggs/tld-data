@@ -16,7 +16,7 @@ Download directly with the applicable command for your OS.
 
 ``fetch https://raw.githubusercontent.com/jbaggs/tld-data/master/tld-data.zeek``
 
-Changes from 2026-01-08 to 2026-01-09:
+Changes from 2026-01-09 to 2026-01-13:
 --------------------------------------
-**level 2 + :** eliv-api.kr
+**level 2 + :** base44.app, base44-sandbox.com
 
