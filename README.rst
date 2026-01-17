@@ -16,7 +16,7 @@ Download directly with the applicable command for your OS.
 
 ``fetch https://raw.githubusercontent.com/jbaggs/tld-data/master/tld-data.zeek``
 
-Changes from 2026-01-09 to 2026-01-13:
+Changes from 2026-01-13 to 2026-01-17:
 --------------------------------------
-**level 2 + :** base44.app, base44-sandbox.com
+**level 2 + :** kiloapps.ai, kiloapps.io
 
