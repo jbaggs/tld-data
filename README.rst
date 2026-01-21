@@ -16,7 +16,7 @@ Download directly with the applicable command for your OS.
 
 ``fetch https://raw.githubusercontent.com/jbaggs/tld-data/master/tld-data.zeek``
 
-Changes from 2026-01-13 to 2026-01-17:
+Changes from 2026-01-17 to 2026-01-21:
 --------------------------------------
-**level 2 + :** kiloapps.ai, kiloapps.io
+**level 2 + :** spawnbase.app
 
