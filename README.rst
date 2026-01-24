@@ -16,7 +16,7 @@ Download directly with the applicable command for your OS.
 
 ``fetch https://raw.githubusercontent.com/jbaggs/tld-data/master/tld-data.zeek``
 
-Changes from 2026-01-17 to 2026-01-21:
+Changes from 2026-01-21 to 2026-01-24:
 --------------------------------------
-**level 2 + :** spawnbase.app
+**level 2 + :** corespeed.app, miren.app, shiptoday.app, shiptoday.build, discourse.diy, miren.systems
 
