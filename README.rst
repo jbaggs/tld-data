@@ -16,11 +16,9 @@ Download directly with the applicable command for your OS.
 
 ``fetch https://raw.githubusercontent.com/jbaggs/tld-data/master/tld-data.zeek``
 
-Changes from 2026-01-24 to 2026-01-25:
+Changes from 2026-01-25 to 2026-01-30:
 --------------------------------------
-**level 4 + :** transfer-webapp.ap-southeast-7.on.aws, transfer-webapp.mx-central-1.on.aws
+**level 2 + :** keenetic.io, keenetic.link, keenetic.name, keenetic.pro, sol.site
 
-**level 5 + :** s3-website.dualstack.us-gov-east-1.amazonaws.com, s3-website.dualstack.us-gov-west-1.amazonaws.com
-
-**level 6 + :** auth.cognito-idp.eusc-de-east-1.on.amazonwebservices.eu
+**level 4 + :** \*.aa.crm.dev, \*.ab.crm.dev, \*.ac.crm.dev, \*.ad.crm.dev, \*.ae.crm.dev, \*.af.crm.dev, \*.ci.crm.dev, \*.pa.crm.dev, \*.pb.crm.dev, \*.pc.crm.dev, \*.pd.crm.dev, \*.pe.crm.dev, \*.pf.crm.dev
 
