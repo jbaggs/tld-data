@@ -16,9 +16,13 @@ Download directly with the applicable command for your OS.
 
 ``fetch https://raw.githubusercontent.com/jbaggs/tld-data/master/tld-data.zeek``
 
-Changes from 2026-01-25 to 2026-01-30:
+Changes from 2026-01-30 to 2026-02-03:
 --------------------------------------
-**level 2 + :** keenetic.io, keenetic.link, keenetic.name, keenetic.pro, sol.site
+**level 2 - :** 12chars.dev, 12chars.it, 12chars.pro
 
-**level 4 + :** \*.aa.crm.dev, \*.ab.crm.dev, \*.ac.crm.dev, \*.ad.crm.dev, \*.ae.crm.dev, \*.af.crm.dev, \*.ci.crm.dev, \*.pa.crm.dev, \*.pb.crm.dev, \*.pc.crm.dev, \*.pd.crm.dev, \*.pe.crm.dev, \*.pf.crm.dev
+**level 2 + :** usgovtrafficmanager.net
+
+**level 4 - :** \*.cns.joyent.com
+
+**level 4 + :** blob.core.usgovcloudapi.net, file.core.usgovcloudapi.net, web.core.usgovcloudapi.net, file.core.windows.net, web.core.windows.net
 
