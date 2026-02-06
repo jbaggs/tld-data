@@ -16,13 +16,7 @@ Download directly with the applicable command for your OS.
 
 ``fetch https://raw.githubusercontent.com/jbaggs/tld-data/master/tld-data.zeek``
 
-Changes from 2026-01-30 to 2026-02-03:
+Changes from 2026-02-03 to 2026-02-06:
 --------------------------------------
-**level 2 - :** 12chars.dev, 12chars.it, 12chars.pro
-
-**level 2 + :** usgovtrafficmanager.net
-
-**level 4 - :** \*.cns.joyent.com
-
-**level 4 + :** blob.core.usgovcloudapi.net, file.core.usgovcloudapi.net, web.core.usgovcloudapi.net, file.core.windows.net, web.core.windows.net
+**level 2 + :** 1cooldns.com, bumbleshrimp.com, ddnsguru.com, dynuddns.com, dynuhosting.com, pivohosting.com, wiredbladehosting.com, dynuddns.net, mysynology.net, opik.net, spryt.net, roxa.org
 
