@@ -16,7 +16,9 @@ Download directly with the applicable command for your OS.
 
 ``fetch https://raw.githubusercontent.com/jbaggs/tld-data/master/tld-data.zeek``
 
-Changes from 2026-02-03 to 2026-02-06:
+Changes from 2026-02-06 to 2026-02-11:
 --------------------------------------
-**level 2 + :** 1cooldns.com, bumbleshrimp.com, ddnsguru.com, dynuddns.com, dynuhosting.com, pivohosting.com, wiredbladehosting.com, dynuddns.net, mysynology.net, opik.net, spryt.net, roxa.org
+**level 2 + :** hue.vn
+
+**level 3 + :** sandbox.deno.net
 
