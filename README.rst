@@ -16,7 +16,9 @@ Download directly with the applicable command for your OS.
 
 ``fetch https://raw.githubusercontent.com/jbaggs/tld-data/master/tld-data.zeek``
 
-Changes from 2026-03-03 to 2026-03-06:
+Changes from 2026-03-06 to 2026-03-09:
 --------------------------------------
-**level 2 - :** mazeplay.com
+**level 3 + :** on.expo.app
+
+**level 4 + :** on.staging.expo.app
 
