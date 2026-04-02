@@ -16,7 +16,7 @@ Download directly with the applicable command for your OS.
 
 ``fetch https://raw.githubusercontent.com/jbaggs/tld-data/master/tld-data.zeek``
 
-Changes from 2026-03-09 to 2026-03-17:
+Changes from 2026-03-17 to 2026-04-02:
 --------------------------------------
-**level 2 + :** exe.xyz
+**level 2 + :** pplx.app, payload.dev
 
