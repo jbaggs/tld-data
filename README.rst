@@ -16,9 +16,7 @@ Download directly with the applicable command for your OS.
 
 ``fetch https://raw.githubusercontent.com/jbaggs/tld-data/master/tld-data.zeek``
 
-Changes from 2026-04-02 to 2026-04-08:
+Changes from 2026-04-08 to 2026-04-09:
 --------------------------------------
-**level 2 + :** sryze.cc, opentunnel.xyz
-
-**level 3 + :** seprox.hooc.me
+**level 2 - :** pagexl.com
 
