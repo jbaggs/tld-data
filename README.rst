@@ -16,11 +16,9 @@ Download directly with the applicable command for your OS.
 
 ``fetch https://raw.githubusercontent.com/jbaggs/tld-data/master/tld-data.zeek``
 
-Changes from 2026-04-10 to 2026-04-20:
+Changes from 2026-04-20 to 2026-04-24:
 --------------------------------------
-**level 2 - :** cloudapps.digital
+**level 2 + :** fspages.org, piebox.site, deployagent.space
 
-**level 2 + :** claude.app
-
-**level 3 - :** london.cloudapps.digital
+**level 3 + :** \*.atlassian-3p.com, \*.atlassian-3p-us-gov-mod.com, \*.atlassian-isolated-3p.com, \*.metaaiusercontent.com
 
