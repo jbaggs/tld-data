@@ -16,7 +16,7 @@ Download directly with the applicable command for your OS.
 
 ``fetch https://raw.githubusercontent.com/jbaggs/tld-data/master/tld-data.zeek``
 
-Changes from 2026-04-24 to 2026-04-29:
+Changes from 2026-04-29 to 2026-05-06:
 --------------------------------------
-**level 2 + :** vicp.fun, yicp.fun, zicp.fun
+**level 3 - :** on.crisp.email
 
