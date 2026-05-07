@@ -16,7 +16,9 @@ Download directly with the applicable command for your OS.
 
 ``fetch https://raw.githubusercontent.com/jbaggs/tld-data/master/tld-data.zeek``
 
-Changes from 2026-04-29 to 2026-05-06:
+Changes from 2026-05-06 to 2026-05-07:
 --------------------------------------
-**level 3 - :** on.crisp.email
+**level 2 + :** prg1-zerops.zone
+
+**level 3 + :** \*.zerops.zone
 
