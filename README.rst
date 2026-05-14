@@ -16,9 +16,11 @@ Download directly with the applicable command for your OS.
 
 ``fetch https://raw.githubusercontent.com/jbaggs/tld-data/master/tld-data.zeek``
 
-Changes from 2026-05-06 to 2026-05-07:
+Changes from 2026-05-07 to 2026-05-14:
 --------------------------------------
-**level 2 + :** prg1-zerops.zone
+**level 2 + :** hstgr.cloud
 
-**level 3 + :** \*.zerops.zone
+**level 3 - :** cc.nd.us, lib.nd.us
+
+**level 3 + :** t3.storage.dev, t3.storageapi.dev
 
