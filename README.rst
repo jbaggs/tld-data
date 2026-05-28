@@ -16,11 +16,9 @@ Download directly with the applicable command for your OS.
 
 ``fetch https://raw.githubusercontent.com/jbaggs/tld-data/master/tld-data.zeek``
 
-Changes from 2026-05-07 to 2026-05-14:
+Changes from 2026-05-14 to 2026-05-28:
 --------------------------------------
-**level 2 + :** hstgr.cloud
+**level 2 - :** bookonline.app, reserve-online.com
 
-**level 3 - :** cc.nd.us, lib.nd.us
-
-**level 3 + :** t3.storage.dev, t3.storageapi.dev
+**level 2 + :** khsj.cn, ai.id, canva.link, book.online
 
