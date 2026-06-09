@@ -16,9 +16,7 @@ Download directly with the applicable command for your OS.
 
 ``fetch https://raw.githubusercontent.com/jbaggs/tld-data/master/tld-data.zeek``
 
-Changes from 2026-05-14 to 2026-05-28:
+Changes from 2026-05-28 to 2026-06-09:
 --------------------------------------
-**level 2 - :** bookonline.app, reserve-online.com
-
-**level 2 + :** khsj.cn, ai.id, canva.link, book.online
+**level 2 + :** chatgpt.site
 
