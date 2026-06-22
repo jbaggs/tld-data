@@ -16,7 +16,7 @@ Download directly with the applicable command for your OS.
 
 ``fetch https://raw.githubusercontent.com/jbaggs/tld-data/master/tld-data.zeek``
 
-Changes from 2026-06-09 to 2026-06-10:
+Changes from 2026-06-10 to 2026-06-22:
 --------------------------------------
-**level 2 + :** vibehost.space
+**level 2 + :** mkm.fan
 
