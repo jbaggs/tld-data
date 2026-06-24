@@ -16,7 +16,7 @@ Download directly with the applicable command for your OS.
 
 ``fetch https://raw.githubusercontent.com/jbaggs/tld-data/master/tld-data.zeek``
 
-Changes from 2026-06-10 to 2026-06-22:
+Changes from 2026-06-22 to 2026-06-24:
 --------------------------------------
-**level 2 + :** mkm.fan
+**level 2 + :** puter.app, dnshome.at, resolve.bar, ddns.berlin, dnshome.cloud, ddnssec.de, dyndnssec.de, heimdns.de, srvdns.de, dnshome.eu, dnshome.it, dyn.now, heimdns.online, puter.site, puter.work, ddns.wtf
 
