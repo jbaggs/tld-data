@@ -16,7 +16,9 @@ Download directly with the applicable command for your OS.
 
 ``fetch https://raw.githubusercontent.com/jbaggs/tld-data/master/tld-data.zeek``
 
-Changes from 2026-06-24 to 2026-07-01:
+Changes from 2026-07-01 to 2026-07-06:
 --------------------------------------
-**level 2 - :** mayfirst.org
+**level 2 - :** biz.at, info.at
+
+**level 2 + :** grok.me
 
