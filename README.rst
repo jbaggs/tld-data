@@ -16,13 +16,7 @@ Download directly with the applicable command for your OS.
 
 ``fetch https://raw.githubusercontent.com/jbaggs/tld-data/master/tld-data.zeek``
 
-Changes from 2026-07-14 to 2026-07-21:
+Changes from 2026-07-21 to 2026-07-22:
 --------------------------------------
-**level 2 - :** storj.farm, hzc.io, protonet.io, aquila.it, trentinosudtirol.it, valdaosta.it
-
-**level 2 + :** su.it, sud-sardegna.it, sudsardegna.it, verbano-cusio-ossola.it
-
-**level 3 - :** api.stdlib.com, uk0.bigv.io, \*.cryptonomic.net
-
-**level 4 - :** dh.bytemark.co.uk, vm.bytemark.co.uk
+**level 2 - :** onfabrica.com
 
