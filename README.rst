@@ -16,7 +16,7 @@ Download directly with the applicable command for your OS.
 
 ``fetch https://raw.githubusercontent.com/jbaggs/tld-data/master/tld-data.zeek``
 
-Changes from 2026-07-22 to 2026-07-23:
+Changes from 2026-07-23 to 2026-07-24:
 --------------------------------------
-**level 2 - :** deta.app, deta.dev
+**level 2 + :** playcode.site
 
