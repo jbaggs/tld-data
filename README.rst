@@ -16,7 +16,9 @@ Download directly with the applicable command for your OS.
 
 ``fetch https://raw.githubusercontent.com/jbaggs/tld-data/master/tld-data.zeek``
 
-Changes from 2026-07-24 to 2026-07-26:
+Changes from 2026-07-26 to 2026-08-16:
 --------------------------------------
-**level 3 - :** \*.on-acorn.io
+**level 3 - :** vps.hrsn.au
+
+**level 3 + :** vps.hrsn.net
 
