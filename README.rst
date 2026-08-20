@@ -16,11 +16,11 @@ Download directly with the applicable command for your OS.
 
 ``fetch https://raw.githubusercontent.com/jbaggs/tld-data/master/tld-data.zeek``
 
-Changes from 2026-08-16 to 2026-08-18:
+Changes from 2026-08-18 to 2026-08-20:
 --------------------------------------
-**level 2 - :** adaptable.app
+**level 2 - :** aivencloud.com
 
-**level 2 + :** codepen.app, online-server.cloud, codepen.dev, here.now, scw.site
+**level 2 + :** claudeusercontent.com
 
-**level 3 + :** \*.aivencloud.com, \*.cursorusercontent.com, ams.scw.site, waw.scw.site
+**level 3 + :** frame.claudeusercontent.com
 
