@@ -16,11 +16,13 @@ Download directly with the applicable command for your OS.
 
 ``fetch https://raw.githubusercontent.com/jbaggs/tld-data/master/tld-data.zeek``
 
-Changes from 2026-08-18 to 2026-08-20:
+Changes from 2026-08-20 to 2026-09-02:
 --------------------------------------
-**level 2 - :** aivencloud.com
+**level 2 - :** xnbay.com
 
-**level 2 + :** claudeusercontent.com
+**level 2 + :** canva-code.cn, tmp.now
 
-**level 3 + :** frame.claudeusercontent.com
+**level 3 - :** u2.xnbay.com, u2-local.xnbay.com, demo.datacenter.fi, paas.datacenter.fi
+
+**level 3 + :** \*.eth.limo, \*.eth.link
 
