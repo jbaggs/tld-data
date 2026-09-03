@@ -16,13 +16,9 @@ Download directly with the applicable command for your OS.
 
 ``fetch https://raw.githubusercontent.com/jbaggs/tld-data/master/tld-data.zeek``
 
-Changes from 2026-08-20 to 2026-09-02:
+Changes from 2026-09-02 to 2026-09-03:
 --------------------------------------
-**level 2 - :** xnbay.com
+**level 2 + :** rocketpreview.app
 
-**level 2 + :** canva-code.cn, tmp.now
-
-**level 3 - :** u2.xnbay.com, u2-local.xnbay.com, demo.datacenter.fi, paas.datacenter.fi
-
-**level 3 + :** \*.eth.limo, \*.eth.link
+**level 3 + :** \*.builtwithrocket.new
 
