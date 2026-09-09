@@ -16,7 +16,7 @@ Download directly with the applicable command for your OS.
 
 ``fetch https://raw.githubusercontent.com/jbaggs/tld-data/master/tld-data.zeek``
 
-Changes from 2026-09-04 to 2026-09-06:
+Changes from 2026-09-06 to 2026-09-09:
 --------------------------------------
-**level 2 + :** ia.bo, opencloud.me
+**level 2 + :** cloud.run, ai.studio
 
