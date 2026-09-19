@@ -16,9 +16,7 @@ Download directly with the applicable command for your OS.
 
 ``fetch https://raw.githubusercontent.com/jbaggs/tld-data/master/tld-data.zeek``
 
-Changes from 2026-09-09 to 2026-09-18:
+Changes from 2026-09-18 to 2026-09-19:
 --------------------------------------
-**level 2 - :** alpha-myqnapcloud.com, dev-myqnapcloud.com
-
-**level 4 + :** \*.compute.herokuapp.com
+**level 2 + :** hosted-by-files.com
 
