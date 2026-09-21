@@ -16,7 +16,7 @@ Download directly with the applicable command for your OS.
 
 ``fetch https://raw.githubusercontent.com/jbaggs/tld-data/master/tld-data.zeek``
 
-Changes from 2026-09-18 to 2026-09-19:
+Changes from 2026-09-19 to 2026-09-21:
 --------------------------------------
-**level 2 + :** hosted-by-files.com
+**level 2 + :** surge.sh
 
