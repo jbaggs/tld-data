@@ -16,9 +16,9 @@ Download directly with the applicable command for your OS.
 
 ``fetch https://raw.githubusercontent.com/jbaggs/tld-data/master/tld-data.zeek``
 
-Changes from 2026-09-21 to 2026-09-22:
+Changes from 2026-09-22 to 2026-09-24:
 --------------------------------------
-**level 3 + :** aws.databricksapps.com, gcp.databricksapps.com, aws-gov.databricksapps.us
+**level 2 + :** iqhs.pl
 
-**level 4 + :** \*.azure.databricksapps.com
+**level 3 + :** site.webhosting.be, site.hosting-cluster.nl
 
