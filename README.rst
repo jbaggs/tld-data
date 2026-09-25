@@ -16,9 +16,7 @@ Download directly with the applicable command for your OS.
 
 ``fetch https://raw.githubusercontent.com/jbaggs/tld-data/master/tld-data.zeek``
 
-Changes from 2026-09-22 to 2026-09-24:
+Changes from 2026-09-24 to 2026-09-25:
 --------------------------------------
-**level 2 + :** iqhs.pl
-
-**level 3 + :** site.webhosting.be, site.hosting-cluster.nl
+**level 2 + :** glideos.app
 
