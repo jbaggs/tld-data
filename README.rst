@@ -16,7 +16,7 @@ Download directly with the applicable command for your OS.
 
 ``fetch https://raw.githubusercontent.com/jbaggs/tld-data/master/tld-data.zeek``
 
-Changes from 2026-09-24 to 2026-09-25:
+Changes from 2026-09-25 to 2026-10-06:
 --------------------------------------
-**level 2 + :** glideos.app
+**level 2 + :** retool.app
 
