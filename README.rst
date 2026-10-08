@@ -16,13 +16,13 @@ Download directly with the applicable command for your OS.
 
 ``fetch https://raw.githubusercontent.com/jbaggs/tld-data/master/tld-data.zeek``
 
-Changes from 2026-10-06 to 2026-10-07:
+Changes from 2026-10-07 to 2026-10-08:
 --------------------------------------
-**level 2 + :** amazonlightsail.com
+**level 2 - :** replit.dev
 
-**level 3 + :** ap-south-2.elasticbeanstalk.com, ap-southeast-4.elasticbeanstalk.com, ap-southeast-6.elasticbeanstalk.com, ca-west-1.elasticbeanstalk.com, eu-central-2.elasticbeanstalk.com
+**level 3 - :** archer.replit.dev, bones.replit.dev, canary.replit.dev, global.replit.dev, hacker.replit.dev, id.replit.dev, janeway.replit.dev, kim.replit.dev, kira.replit.dev, kirk.replit.dev, odo.replit.dev, paris.replit.dev, picard.replit.dev, pike.replit.dev, prerelease.replit.dev, reed.replit.dev, riker.replit.dev, sisko.replit.dev, spock.replit.dev, staging.replit.dev, sulu.replit.dev, tarpit.replit.dev, teams.replit.dev, tucker.replit.dev, wesley.replit.dev, worf.replit.dev
 
-**level 4 + :** auth.ap-east-2.amazoncognito.com, auth.ap-southeast-6.amazoncognito.com
+**level 3 + :** \*.replit.dev
 
-**level 5 + :** \*.ap-east-1.cs.amazonlightsail.com, \*.ap-northeast-1.cs.amazonlightsail.com, \*.ap-northeast-2.cs.amazonlightsail.com, \*.ap-south-1.cs.amazonlightsail.com, \*.ap-southeast-1.cs.amazonlightsail.com, \*.ap-southeast-2.cs.amazonlightsail.com, \*.ap-southeast-3.cs.amazonlightsail.com, \*.ap-southeast-5.cs.amazonlightsail.com, \*.ca-central-1.cs.amazonlightsail.com, \*.eu-central-1.cs.amazonlightsail.com, \*.eu-north-1.cs.amazonlightsail.com, \*.eu-south-2.cs.amazonlightsail.com, \*.eu-west-1.cs.amazonlightsail.com, \*.eu-west-2.cs.amazonlightsail.com, \*.eu-west-3.cs.amazonlightsail.com, \*.sa-east-1.cs.amazonlightsail.com, \*.us-east-1.cs.amazonlightsail.com, \*.us-east-2.cs.amazonlightsail.com, \*.us-west-2.cs.amazonlightsail.com
+**level 4 + :** \*.teams.replit.dev
 
