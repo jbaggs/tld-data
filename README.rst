@@ -16,7 +16,7 @@ Download directly with the applicable command for your OS.
 
 ``fetch https://raw.githubusercontent.com/jbaggs/tld-data/master/tld-data.zeek``
 
-Changes from 2026-10-17 to 2026-10-18:
+Changes from 2026-10-18 to 2026-10-20:
 --------------------------------------
-**level 2 - :** gitapp.si
+**level 2 - :** aliases121.com, oya.to
 
