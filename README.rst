@@ -16,7 +16,11 @@ Download directly with the applicable command for your OS.
 
 ``fetch https://raw.githubusercontent.com/jbaggs/tld-data/master/tld-data.zeek``
 
-Changes from 2026-10-20 to 2026-10-23:
+Changes from 2026-10-23 to 2026-11-05:
 --------------------------------------
-**level 3 + :** \*.ztna-dingtalk.com
+**level 2 + :** sliplane.app, pagelemon.dev, linkyhost.page, sanity.run, docsflowy.site, manus.space, sanity.studio
+
+**level 3 + :** auth.lovable.app
+
+**level 4 + :** \*.apps.grok.bot, \*.pages.grok.bot
 
