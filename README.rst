@@ -16,7 +16,9 @@ Download directly with the applicable command for your OS.
 
 ``fetch https://raw.githubusercontent.com/jbaggs/tld-data/master/tld-data.zeek``
 
-Changes from 2026-11-09 to 2026-11-10:
+Changes from 2026-11-10 to 2026-11-12:
 --------------------------------------
-**level 2 + :** cloudzyro.app, gov.de, abyme.dev, prod.page, ship.place
+**level 2 + :** modelence.app, vibekit.page, rwx.run
+
+**level 3 + :** cloud.modelence.app, sandbox.modelence.app
 
