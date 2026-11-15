@@ -16,9 +16,11 @@ Download directly with the applicable command for your OS.
 
 ``fetch https://raw.githubusercontent.com/jbaggs/tld-data/master/tld-data.zeek``
 
-Changes from 2026-11-13 to 2026-11-14:
+Changes from 2026-11-14 to 2026-11-15:
 --------------------------------------
-**level 2 + :** crbts.app
+**level 2 - :** imagine.diy, imagine-proxy.work
 
-**level 3 + :** app.amba.host, cdn.amba.host, fn.amba.host, go.amba.host
+**level 2 + :** agilevibes.app, dns.army, v6.army, sail.box, myoxypages.com, ninjaneer-sites.com, reliantlabs.dev, reliantpreview.dev, space.fast, view.fast, co.fo, com.fo, ddns.ge, voati.host, terramind.io, wz.io, xwx.me, dns.navy, v6.navy, wz.org, mymagic.page, omgs.page, v6.rocks, sm.run, bearly.sh
+
+**level 3 + :** sites.reliantlabs.dev
 
