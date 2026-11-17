@@ -16,9 +16,9 @@ Download directly with the applicable command for your OS.
 
 ``fetch https://raw.githubusercontent.com/jbaggs/tld-data/master/tld-data.zeek``
 
-Changes from 2026-11-15 to 2026-11-16:
+Changes from 2026-11-16 to 2026-11-17:
 --------------------------------------
-**level 2 + :** loc.cc, ginta.page, ceero.site
+**level 2 + :** fastedge.app, gcorecdn.com, uncld.dev, mailerpage.io, subscribepage.io, solidres.page, kliv.site
 
-**level 3 + :** apps.devs.ai
+**level 3 + :** \*.2na.am, prod.enter.pro
 
