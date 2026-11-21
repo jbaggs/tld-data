@@ -16,9 +16,9 @@ Download directly with the applicable command for your OS.
 
 ``fetch https://raw.githubusercontent.com/jbaggs/tld-data/master/tld-data.zeek``
 
-Changes from 2026-11-18 to 2026-11-19:
+Changes from 2026-11-19 to 2026-11-21:
 --------------------------------------
-**level 2 + :** pvf.cc, kz.ci, xyz.ci
+**level 2 + :** wordsmithmcpcontent.com, fj.kg
 
-**level 3 + :** \*.prairielearn-user-content.com
+**level 3 + :** staging.wordsmithmcpcontent.com
 
