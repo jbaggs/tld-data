@@ -16,9 +16,7 @@ Download directly with the applicable command for your OS.
 
 ``fetch https://raw.githubusercontent.com/jbaggs/tld-data/master/tld-data.zeek``
 
-Changes from 2026-11-19 to 2026-11-21:
+Changes from 2026-11-21 to 2026-11-23:
 --------------------------------------
-**level 2 + :** wordsmithmcpcontent.com, fj.kg
-
-**level 3 + :** staging.wordsmithmcpcontent.com
+**level 3 + :** \*.airoapp.ai, \*.host.cloud, sites.aspirethemes.com
 
