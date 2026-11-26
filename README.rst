@@ -16,15 +16,11 @@ Download directly with the applicable command for your OS.
 
 ``fetch https://raw.githubusercontent.com/jbaggs/tld-data/master/tld-data.zeek``
 
-Changes from 2026-11-23 to 2026-11-25:
+Changes from 2026-11-25 to 2026-11-26:
 --------------------------------------
-**level 2 - :** diadem.cloud, leapcell.dev, mircloud.host, leapcell.online, mircloud.us
+**level 2 - :** leapcell.app
 
-**level 2 + :** blacktops.app, onhomemade.com, shipstatic.com, faable.link, iptime.org, blacktops.page, greybull.site
+**level 2 + :** relumesite.ai, hostney.app, mythex.app, pymaia.app, softr.app, staticrun.app, strw.app, agric.bw, me.bw, shop.bw, hostney.cloud, infusion-ai.cloud, phronusercontent.com, fs.kg, spheron.live, bg5.net, entrypages.net, bonto.page, is-a.si, fusebase.site, wirechunk.site, atoms.world
 
-**level 3 - :** adimo.co.uk
-
-**level 3 + :** ipdisk.co.kr
-
-**level 4 + :** \*.shared.atlassian-3p.com, \*.shared.atlassian-3p-us-gov-mod.com, \*.shared.atlassian-isolated-3p.com
+**level 3 + :** pub.atoms.world
 
