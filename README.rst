@@ -16,11 +16,7 @@ Download directly with the applicable command for your OS.
 
 ``fetch https://raw.githubusercontent.com/jbaggs/tld-data/master/tld-data.zeek``
 
-Changes from 2026-11-25 to 2026-11-26:
+Changes from 2026-11-26 to 2026-11-27:
 --------------------------------------
-**level 2 - :** leapcell.app
-
-**level 2 + :** relumesite.ai, hostney.app, mythex.app, pymaia.app, softr.app, staticrun.app, strw.app, agric.bw, me.bw, shop.bw, hostney.cloud, infusion-ai.cloud, phronusercontent.com, fs.kg, spheron.live, bg5.net, entrypages.net, bonto.page, is-a.si, fusebase.site, wirechunk.site, atoms.world
-
-**level 3 + :** pub.atoms.world
+**level 2 + :** aiwebinfra.app, lambforge.app, xport.free, xport.host, tnas.online, xport.sh, agental.site, eureka.zone
 
